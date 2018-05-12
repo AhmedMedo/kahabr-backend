@@ -1,0 +1,47 @@
+/*Admin Css styles*/
+
+/*#news_image
+{
+	cursor: pointer;
+}
+*/
+.dataTables_wrapper .dataTables_processing{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    background: none;
+ }
+table
+{
+    width:100%;
+}
+
+.fb_div
+{
+    color: #4f60ee;
+    font-size: 17px;
+    font-weight: bold;
+}
+.error_msg{
+    color: #f78a8a;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}

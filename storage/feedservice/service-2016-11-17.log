@@ -1,0 +1,1167 @@
+[2016-11-17 10:07:31] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:08:16] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة قبس","link":"https://twitrss.me/twitter_user_to_rss/?user=qbasnews"} 
+[2016-11-17 10:08:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة قبس"} 
+[2016-11-17 10:08:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة ماب نيوز"} 
+[2016-11-17 10:08:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة محايل"} 
+[2016-11-17 10:08:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة مفاكرة"} 
+[2016-11-17 10:08:25] local.INFO: The feed has been parsed {"feed_title":"صحيفة مكة الإلكترونية"} 
+[2016-11-17 10:08:27] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادي الزمالك"} 
+[2016-11-17 10:08:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادينا"} 
+[2016-11-17 10:08:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة ناس"} 
+[2016-11-17 10:08:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة نوافيكم الإلكترونية"} 
+[2016-11-17 10:08:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة نيسان"} 
+[2016-11-17 10:08:40] local.INFO: The feed has been parsed {"feed_title":"صحيفة هام الإلكترونية"} 
+[2016-11-17 10:08:43] local.INFO: The feed has been parsed {"feed_title":"صحيفة هروب نيوز"} 
+[2016-11-17 10:08:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة وتين"} 
+[2016-11-17 10:08:48] local.INFO: The feed has been parsed {"feed_title":"صوت الجبل"} 
+[2016-11-17 10:08:51] local.INFO: The feed has been parsed {"feed_title":"صوت المبتعث"} 
+[2016-11-17 10:08:53] local.INFO: The feed has been parsed {"feed_title":"صوت لبنان"} 
+[2016-11-17 10:08:56] local.INFO: The feed has been parsed {"feed_title":"صيدا أون لاين"} 
+[2016-11-17 10:08:58] local.INFO: The feed has been parsed {"feed_title":"عدن بوست"} 
+[2016-11-17 10:09:01] local.INFO: The feed has been parsed {"feed_title":"عدن تايم"} 
+[2016-11-17 10:09:04] local.INFO: The feed has been parsed {"feed_title":"عراق نيوز"} 
+[2016-11-17 10:09:06] local.INFO: The feed has been parsed {"feed_title":"عرعر الآن"} 
+[2016-11-17 10:09:09] local.INFO: The feed has been parsed {"feed_title":"عسير نيوز الإلكترونية"} 
+[2016-11-17 10:09:11] local.INFO: The feed has been parsed {"feed_title":"عمان اليوم"} 
+[2016-11-17 10:09:14] local.INFO: The feed has been parsed {"feed_title":"عمان نيوز"} 
+[2016-11-17 10:09:17] local.INFO: The feed has been parsed {"feed_title":"عين اليمن الأخبارية"} 
+[2016-11-17 10:09:20] local.INFO: The feed has been parsed {"feed_title":"عين اليوم"} 
+[2016-11-17 10:09:23] local.INFO: The feed has been parsed {"feed_title":"فولت"} 
+[2016-11-17 10:09:26] local.INFO: The feed has been parsed {"feed_title":"فيفاء أون لاين"} 
+[2016-11-17 10:09:28] local.INFO: The feed has been parsed {"feed_title":"ليبانون ديبايت"} 
+[2016-11-17 10:09:31] local.INFO: The feed has been parsed {"feed_title":"ليبانون فايلز"} 
+[2016-11-17 10:09:31] local.INFO: This feed contain empty data in the xml file {"feed_title":"ليبيا الآن","link":""} 
+[2016-11-17 10:09:31] local.INFO: The feed has been parsed {"feed_title":"ليبيا الآن"} 
+[2016-11-17 10:09:34] local.INFO: The feed has been parsed {"feed_title":"ليبيا المستقبل"} 
+[2016-11-17 10:09:36] local.INFO: The feed has been parsed {"feed_title":"مأرب برس"} 
+[2016-11-17 10:09:39] local.INFO: The feed has been parsed {"feed_title":"مدينة تعز"} 
+[2016-11-17 10:09:39] local.INFO: This feed contain empty data in the xml file {"feed_title":"مرصد صحح خبرك","link":""} 
+[2016-11-17 10:09:39] local.INFO: The feed has been parsed {"feed_title":"مرصد صحح خبرك"} 
+[2016-11-17 10:09:41] local.INFO: The feed has been parsed {"feed_title":"مركز المشرق للدراسات"} 
+[2016-11-17 10:09:44] local.INFO: The feed has been parsed {"feed_title":"مسند للأنباء"} 
+[2016-11-17 10:09:47] local.INFO: The feed has been parsed {"feed_title":"موقع أردن الإخبارية"} 
+[2016-11-17 10:09:51] local.INFO: The feed has been parsed {"feed_title":"موقع اخبار 24"} 
+[2016-11-17 10:09:51] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع الاخبارية مباشر","link":""} 
+[2016-11-17 10:09:51] local.INFO: The feed has been parsed {"feed_title":"موقع الاخبارية مباشر"} 
+[2016-11-17 10:09:54] local.INFO: The feed has been parsed {"feed_title":"موقع الجزائر 24"} 
+[2016-11-17 10:09:57] local.INFO: The feed has been parsed {"feed_title":"موقع الصوت الإخباري"} 
+[2016-11-17 10:10:43] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع العهد الإخباري","link":"http://www.twitter.com/alahednews"} 
+[2016-11-17 10:10:43] local.INFO: The feed has been parsed {"feed_title":"موقع العهد الإخباري"} 
+[2016-11-17 10:10:45] local.INFO: The feed has been parsed {"feed_title":"موقع الفلق نيوز"} 
+[2016-11-17 10:10:47] local.INFO: The feed has been parsed {"feed_title":"موقع الفيصلي نت"} 
+[2016-11-17 10:10:50] local.INFO: The feed has been parsed {"feed_title":"موقع المدينة الإخبارية"} 
+[2016-11-17 10:10:53] local.INFO: The feed has been parsed {"feed_title":"موقع المندب نيوز"} 
+[2016-11-17 10:10:59] local.INFO: The feed has been parsed {"feed_title":"موقع الموقع"} 
+[2016-11-17 10:11:01] local.INFO: The feed has been parsed {"feed_title":"موقع الوكيل الإخباري"} 
+[2016-11-17 10:11:01] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع اليمن السعيد","link":""} 
+[2016-11-17 10:11:01] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن السعيد"} 
+[2016-11-17 10:11:03] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن العربي"} 
+[2016-11-17 10:11:05] local.INFO: The feed has been parsed {"feed_title":"موقع جماهير الأهلي المصري"} 
+[2016-11-17 10:11:09] local.INFO: The feed has been parsed {"feed_title":"موقع جهينة نيوز"} 
+[2016-11-17 10:11:11] local.INFO: The feed has been parsed {"feed_title":"موقع جي بي سي نيوز"} 
+[2016-11-17 10:11:14] local.INFO: The feed has been parsed {"feed_title":"موقع خبر عاجل"} 
+[2016-11-17 10:11:17] local.INFO: The feed has been parsed {"feed_title":"موقع رووداو"} 
+[2016-11-17 10:11:19] local.INFO: The feed has been parsed {"feed_title":"موقع سوداني أون لاين"} 
+[2016-11-17 10:11:22] local.INFO: The feed has been parsed {"feed_title":"موقع شبكة الشروق"} 
+[2016-11-17 10:11:24] local.INFO: The feed has been parsed {"feed_title":"موقع صوت اليمن"} 
+[2016-11-17 10:11:27] local.INFO: The feed has been parsed {"feed_title":"موقع عدن الحدث"} 
+[2016-11-17 10:11:29] local.INFO: The feed has been parsed {"feed_title":"موقع كراج"} 
+[2016-11-17 10:11:31] local.INFO: The feed has been parsed {"feed_title":"موقع كرمالكم"} 
+[2016-11-17 10:11:32] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع لبنان 24","link":"https://twitrss.me/twitter_user_to_rss/?user=lebanon24?lang=en"} 
+[2016-11-17 10:11:32] local.INFO: The feed has been parsed {"feed_title":"موقع لبنان 24"} 
+[2016-11-17 10:11:35] local.INFO: The feed has been parsed {"feed_title":"موقع ليبيا السلام"} 
+[2016-11-17 10:11:38] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - السعودية"} 
+[2016-11-17 10:11:40] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - قطر"} 
+[2016-11-17 10:11:43] local.INFO: The feed has been parsed {"feed_title":"موقع مفكرة الاسلام"} 
+[2016-11-17 10:11:46] local.INFO: The feed has been parsed {"feed_title":"موقع ملحق"} 
+[2016-11-17 10:11:48] local.INFO: The feed has been parsed {"feed_title":"موقع يافع نيوز"} 
+[2016-11-17 10:11:51] local.INFO: The feed has been parsed {"feed_title":"موقع يمنات الإخباري"} 
+[2016-11-17 10:11:53] local.INFO: The feed has been parsed {"feed_title":"نيوز السعودية"} 
+[2016-11-17 10:11:55] local.INFO: The feed has been parsed {"feed_title":"هدرة نت"} 
+[2016-11-17 10:11:58] local.INFO: The feed has been parsed {"feed_title":"هيئة السوق المالية السعودية"} 
+[2016-11-17 10:12:00] local.INFO: The feed has been parsed {"feed_title":"وكالة الفرات نيوز"} 
+[2016-11-17 10:12:03] local.INFO: The feed has been parsed {"feed_title":"وكالة خبرللأنباء"} 
+[2016-11-17 10:12:07] local.INFO: The feed has been parsed {"feed_title":"وكالة وامس الاخبارية"} 
+[2016-11-17 10:12:10] local.INFO: The feed has been parsed {"feed_title":"يماني نت"} 
+[2016-11-17 10:12:13] local.INFO: The feed has been parsed {"feed_title":"يمن برس"} 
+[2016-11-17 10:12:16] local.INFO: The feed has been parsed {"feed_title":"يمن مونيتور"} 
+[2016-11-17 10:12:19] local.INFO: The feed has been parsed {"feed_title":"يومية المسار العربي"} 
+[2016-11-17 10:12:20] local.INFO: This feed contain empty data in the xml file {"feed_title":"أخبار المحرق","link":"https://twitrss.me/twitter_user_to_rss/?user=almoharraq_news"} 
+[2016-11-17 10:12:20] local.INFO: The feed has been parsed {"feed_title":"أخبار المحرق"} 
+[2016-11-17 10:12:22] local.INFO: The feed has been parsed {"feed_title":"الأمه نيوز"} 
+[2016-11-17 10:12:25] local.INFO: The feed has been parsed {"feed_title":"البحرين اليوم"} 
+[2016-11-17 10:12:29] local.INFO: The feed has been parsed {"feed_title":"التيار التقدمي الكويتي"} 
+[2016-11-17 10:12:32] local.INFO: The feed has been parsed {"feed_title":"الزاوية الاخبارية"} 
+[2016-11-17 10:12:35] local.INFO: The feed has been parsed {"feed_title":"جريدة 25 فبراير"} 
+[2016-11-17 10:12:38] local.INFO: The feed has been parsed {"feed_title":"جريدة أكاديميا"} 
+[2016-11-17 10:12:41] local.INFO: The feed has been parsed {"feed_title":"جريدة اجيال الالكترونية"} 
+[2016-11-17 10:12:44] local.INFO: The feed has been parsed {"feed_title":"جريدة البلاد"} 
+[2016-11-17 10:12:47] local.INFO: The feed has been parsed {"feed_title":"جريدة الجون"} 
+[2016-11-17 10:12:50] local.INFO: The feed has been parsed {"feed_title":"جريدة الرأي العام"} 
+[2016-11-17 10:12:52] local.INFO: The feed has been parsed {"feed_title":"جريدة الرياضي"} 
+[2016-11-17 10:12:56] local.INFO: The feed has been parsed {"feed_title":"الرياضي"} 
+[2016-11-17 10:12:59] local.INFO: The feed has been parsed {"feed_title":"جريدة الصوت الكويتية"} 
+[2016-11-17 10:13:02] local.INFO: The feed has been parsed {"feed_title":"جريدة حدث الإلكترونية"} 
+[2016-11-17 10:13:02] local.INFO: This feed contain empty data in the xml file {"feed_title":"حياد الإلكترونية","link":""} 
+[2016-11-17 10:13:02] local.INFO: The feed has been parsed {"feed_title":"حياد الإلكترونية"} 
+[2016-11-17 10:13:05] local.INFO: The feed has been parsed {"feed_title":"خدمة برلماني"} 
+[2016-11-17 10:13:08] local.INFO: The feed has been parsed {"feed_title":"دسمان نيوز"} 
+[2016-11-17 10:13:10] local.INFO: The feed has been parsed {"feed_title":"ديرة نيوز"} 
+[2016-11-17 10:13:13] local.INFO: The feed has been parsed {"feed_title":"سكوب نيوز"} 
+[2016-11-17 10:13:16] local.INFO: The feed has been parsed {"feed_title":"شبكة أبناء القائد"} 
+[2016-11-17 10:13:19] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإرادة الإلكترونية"} 
+[2016-11-17 10:13:19] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الحدث","link":""} 
+[2016-11-17 10:13:19] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-17 10:13:22] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحصيلة الإلكترونية"} 
+[2016-11-17 10:13:25] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقيقة الإلكترونية"} 
+[2016-11-17 10:13:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخبر"} 
+[2016-11-17 10:13:31] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور الكويتية"} 
+[2016-11-17 10:13:34] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشامية نيوز الإلكترونية"} 
+[2016-11-17 10:13:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشاهد اليومية"} 
+[2016-11-17 10:13:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة النخبة الإخبارية الإلكترونيه"} 
+[2016-11-17 10:13:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة بيان الكويتية"} 
+[2016-11-17 10:13:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة حديث المدينة"} 
+[2016-11-17 10:13:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبر"} 
+[2016-11-17 10:13:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة كاظمة"} 
+[2016-11-17 10:13:54] local.INFO: The feed has been parsed {"feed_title":"صحيفة مرآة البحرين"} 
+[2016-11-17 10:13:57] local.INFO: The feed has been parsed {"feed_title":"كويت نيوز"} 
+[2016-11-17 10:14:00] local.INFO: The feed has been parsed {"feed_title":"مجلة الأحرار الكويتية"} 
+[2016-11-17 10:14:02] local.INFO: The feed has been parsed {"feed_title":"مجلة المجتمع"} 
+[2016-11-17 10:14:04] local.INFO: The feed has been parsed {"feed_title":"منامة بوست"} 
+[2016-11-17 10:14:06] local.INFO: The feed has been parsed {"feed_title":"موقع Q8News"} 
+[2016-11-17 10:14:08] local.INFO: The feed has been parsed {"feed_title":"موقع الموازي"} 
+[2016-11-17 10:14:11] local.INFO: The feed has been parsed {"feed_title":"موقع بحريننا"} 
+[2016-11-17 10:14:14] local.INFO: The feed has been parsed {"feed_title":"موقع كتاب"} 
+[2016-11-17 10:14:15] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - البحرين"} 
+[2016-11-17 10:14:17] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - الكويت"} 
+[2016-11-17 10:14:19] local.INFO: The feed has been parsed {"feed_title":"وكالة إنفراد الإلكترونية"} 
+[2016-11-17 10:14:22] local.INFO: The feed has been parsed {"feed_title":"أخبار اليوم - المسائي"} 
+[2016-11-17 10:14:22] local.INFO: This feed contain empty data in the xml file {"feed_title":"أخبار حصري","link":""} 
+[2016-11-17 10:14:22] local.INFO: The feed has been parsed {"feed_title":"أخبار حصري"} 
+[2016-11-17 10:14:25] local.INFO: The feed has been parsed {"feed_title":"أخبار ملاعب الرياضية"} 
+[2016-11-17 10:14:27] local.INFO: The feed has been parsed {"feed_title":"أخبار نادي إنتر ميلان"} 
+[2016-11-17 10:14:27] local.INFO: This feed contain empty data in the xml file {"feed_title":"أرابيسك","link":""} 
+[2016-11-17 10:14:27] local.INFO: The feed has been parsed {"feed_title":"أرابيسك"} 
+[2016-11-17 10:14:30] local.INFO: The feed has been parsed {"feed_title":"أردرويد"} 
+[2016-11-17 10:14:34] local.INFO: The feed has been parsed {"feed_title":"أريبيان بزنس"} 
+[2016-11-17 10:14:37] local.INFO: The feed has been parsed {"feed_title":"أسرار للنساء فقط"} 
+[2016-11-17 10:14:40] local.INFO: The feed has been parsed {"feed_title":"ألو أريبيا"} 
+[2016-11-17 10:14:42] local.INFO: The feed has been parsed {"feed_title":"أنا زهرة"} 
+[2016-11-17 10:14:45] local.INFO: The feed has been parsed {"feed_title":"أوتوسبورت"} 
+[2016-11-17 10:28:53] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:28:55] local.INFO: The feed has been parsed {"feed_title":"إرم سبورت"} 
+[2016-11-17 10:28:58] local.INFO: The feed has been parsed {"feed_title":"إرم نيوز"} 
+[2016-11-17 10:29:02] local.INFO: The feed has been parsed {"feed_title":"إقلاع الإتحاديين"} 
+[2016-11-17 10:29:06] local.INFO: The feed has been parsed {"feed_title":"إيلاف"} 
+[2016-11-17 10:29:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتي سبورت"} 
+[2016-11-17 10:29:09] local.INFO: The feed has been parsed {"feed_title":"تونس الآن"} 
+[2016-11-17 10:29:12] local.INFO: The feed has been parsed {"feed_title":"الإخبارية التونسية"} 
+[2016-11-17 10:29:14] local.INFO: The feed has been parsed {"feed_title":"الإدارة العامة للمرور"} 
+[2016-11-17 10:29:16] local.INFO: The feed has been parsed {"feed_title":"الإقتصادي الإمارات"} 
+[2016-11-17 10:29:19] local.INFO: The feed has been parsed {"feed_title":"الائتلاف الوطني"} 
+[2016-11-17 10:29:23] local.INFO: The feed has been parsed {"feed_title":"الباحثون السوريون"} 
+[2016-11-17 10:29:26] local.INFO: The feed has been parsed {"feed_title":"البوابة نيوز"} 
+[2016-11-17 10:29:33] local.INFO: The feed has been parsed {"feed_title":"البوابة"} 
+[2016-11-17 10:29:36] local.INFO: The feed has been parsed {"feed_title":"التقنية بلا حدود"} 
+[2016-11-17 10:29:40] local.INFO: The feed has been parsed {"feed_title":"الجورنال"} 
+[2016-11-17 10:29:43] local.INFO: The feed has been parsed {"feed_title":"الخليج أونلاين"} 
+[2016-11-17 10:29:46] local.INFO: The feed has been parsed {"feed_title":"الدوري الإنجليزي - EPLWorld"} 
+[2016-11-17 10:29:49] local.INFO: The feed has been parsed {"feed_title":"الذواقة"} 
+[2016-11-17 10:29:52] local.INFO: The feed has been parsed {"feed_title":"السورية نت"} 
+[2016-11-17 10:29:55] local.INFO: The feed has been parsed {"feed_title":"الصباح نيوز"} 
+[2016-11-17 10:29:57] local.INFO: The feed has been parsed {"feed_title":"الطقس في الأردن"} 
+[2016-11-17 10:30:02] local.INFO: The feed has been parsed {"feed_title":"العربية - المغرب العربي"} 
+[2016-11-17 10:30:06] local.INFO: The feed has been parsed {"feed_title":"العربية صحة"} 
+[2016-11-17 10:30:09] local.INFO: The feed has been parsed {"feed_title":"العمق المغربي"} 
+[2016-11-17 10:30:14] local.INFO: The feed has been parsed {"feed_title":"العهد سبورت"} 
+[2016-11-17 10:30:17] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأولمبية البحرينية"} 
+[2016-11-17 10:30:22] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأولمبية الوطنية"} 
+[2016-11-17 10:30:27] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأوليمبية القطرية"} 
+[2016-11-17 10:30:31] local.INFO: The feed has been parsed {"feed_title":"المربع نت"} 
+[2016-11-17 10:30:34] local.INFO: The feed has been parsed {"feed_title":"المركز الفلسطيني للإعلام"} 
+[2016-11-17 10:30:38] local.INFO: The feed has been parsed {"feed_title":"المغرب اليوم"} 
+[2016-11-17 10:30:42] local.INFO: The feed has been parsed {"feed_title":"النادي الأهلي السعودي"} 
+[2016-11-17 10:30:46] local.INFO: The feed has been parsed {"feed_title":"النادي الثقافي"} 
+[2016-11-17 10:30:49] local.INFO: The feed has been parsed {"feed_title":"النهار نيوز"} 
+[2016-11-17 10:30:52] local.INFO: The feed has been parsed {"feed_title":"اليوم 24"} 
+[2016-11-17 10:30:56] local.INFO: The feed has been parsed {"feed_title":"باب نت"} 
+[2016-11-17 10:30:59] local.INFO: The feed has been parsed {"feed_title":"بايرن ميونخ"} 
+[2016-11-17 10:31:01] local.INFO: The feed has been parsed {"feed_title":"برشلونة إلى الأبد"} 
+[2016-11-17 10:31:04] local.INFO: The feed has been parsed {"feed_title":"برنامج المنتصف"} 
+[2016-11-17 10:31:08] local.INFO: The feed has been parsed {"feed_title":"بريق الإمارات"} 
+[2016-11-17 10:31:13] local.INFO: The feed has been parsed {"feed_title":"بوابة أرقام المالية"} 
+[2016-11-17 10:31:16] local.INFO: The feed has been parsed {"feed_title":"بوابة أفريقيا الإخبارية"} 
+[2016-11-17 10:31:18] local.INFO: The feed has been parsed {"feed_title":"بوابة الأهرام الرياضية"} 
+[2016-11-17 10:31:21] local.INFO: The feed has been parsed {"feed_title":"بوابة العين الإخبارية"} 
+[2016-11-17 10:31:26] local.INFO: The feed has been parsed {"feed_title":"بوابة القاهرة"} 
+[2016-11-17 10:31:28] local.INFO: The feed has been parsed {"feed_title":"بوابة الوفد"} 
+[2016-11-17 10:31:31] local.INFO: The feed has been parsed {"feed_title":"بوابة يناير"} 
+[2016-11-17 10:31:34] local.INFO: The feed has been parsed {"feed_title":"بي إن سبورتس"} 
+[2016-11-17 10:31:37] local.INFO: The feed has been parsed {"feed_title":"بيان للإعلام"} 
+[2016-11-17 10:31:40] local.INFO: The feed has been parsed {"feed_title":"تركيا بوست"} 
+[2016-11-17 10:31:43] local.INFO: The feed has been parsed {"feed_title":"تيربو العرب"} 
+[2016-11-17 10:31:47] local.INFO: The feed has been parsed {"feed_title":"جريدة أوليه الرياضية"} 
+[2016-11-17 10:31:49] local.INFO: The feed has been parsed {"feed_title":"جريدة الاقتصادية غزة"} 
+[2016-11-17 10:31:53] local.INFO: The feed has been parsed {"feed_title":"جريدة البورصة"} 
+[2016-11-17 10:31:53] local.INFO: This feed contain empty data in the xml file {"feed_title":"جريدة المحرر","link":""} 
+[2016-11-17 10:31:53] local.INFO: The feed has been parsed {"feed_title":"جريدة المحرر"} 
+[2016-11-17 10:31:57] local.INFO: The feed has been parsed {"feed_title":"جريدة المصدر"} 
+[2016-11-17 10:32:01] local.INFO: The feed has been parsed {"feed_title":"جريدة تونس الخضراء"} 
+[2016-11-17 10:32:04] local.INFO: The feed has been parsed {"feed_title":"جريدة زمان الوصل"} 
+[2016-11-17 10:32:07] local.INFO: The feed has been parsed {"feed_title":"جريدة عالم المال"} 
+[2016-11-17 10:32:10] local.INFO: The feed has been parsed {"feed_title":"جريدة هسبريس الإلكترونية"} 
+[2016-11-17 10:32:13] local.INFO: The feed has been parsed {"feed_title":"جولنا"} 
+[2016-11-17 10:32:15] local.INFO: The feed has been parsed {"feed_title":"جوهرة أف آم"} 
+[2016-11-17 10:32:18] local.INFO: The feed has been parsed {"feed_title":"حديث العقار"} 
+[2016-11-17 10:32:21] local.INFO: The feed has been parsed {"feed_title":"خبارنا"} 
+[2016-11-17 10:32:25] local.INFO: The feed has been parsed {"feed_title":"خدمة مصدر الإخبارية"} 
+[2016-11-17 10:32:28] local.INFO: The feed has been parsed {"feed_title":"دنيا التكنولوجيا"} 
+[2016-11-17 10:32:31] local.INFO: The feed has been parsed {"feed_title":"دوت مصر"} 
+[2016-11-17 10:32:33] local.INFO: The feed has been parsed {"feed_title":"رؤية عجمان الإخبارية"} 
+[2016-11-17 10:32:33] local.INFO: This feed contain empty data in the xml file {"feed_title":"راديو الكوفية","link":""} 
+[2016-11-17 10:32:33] local.INFO: The feed has been parsed {"feed_title":"راديو الكوفية"} 
+[2016-11-17 10:32:36] local.INFO: The feed has been parsed {"feed_title":"زاجل للإعلام"} 
+[2016-11-17 10:32:39] local.INFO: The feed has been parsed {"feed_title":"زووم تونيزيا"} 
+[2016-11-17 10:32:41] local.INFO: The feed has been parsed {"feed_title":"ساسة بوست"} 
+[2016-11-17 10:32:44] local.INFO: The feed has been parsed {"feed_title":"سامسونج ارابيا"} 
+[2016-11-17 10:32:48] local.INFO: The feed has been parsed {"feed_title":"سبورت 360"} 
+[2016-11-17 10:32:51] local.INFO: The feed has been parsed {"feed_title":"سعودي شفت"} 
+[2016-11-17 10:32:54] local.INFO: The feed has been parsed {"feed_title":"سكاي نيوز الرياضية"} 
+[2016-11-17 10:32:57] local.INFO: The feed has been parsed {"feed_title":"سلة التطبيقات"} 
+[2016-11-17 10:32:58] local.INFO: This feed contain empty data in the xml file {"feed_title":"سنيار","link":"https://twitrss.me/twitter_user_to_rss/?user=omarfasilah/status/795141165565747200"} 
+[2016-11-17 10:32:58] local.INFO: The feed has been parsed {"feed_title":"سنيار"} 
+[2016-11-17 10:32:58] local.INFO: This feed contain empty data in the xml file {"feed_title":"سوريا عاجل","link":""} 
+[2016-11-17 10:32:58] local.INFO: The feed has been parsed {"feed_title":"سوريا عاجل"} 
+[2016-11-17 10:33:01] local.INFO: The feed has been parsed {"feed_title":"شبكة أبو نواف"} 
+[2016-11-17 10:33:06] local.INFO: The feed has been parsed {"feed_title":"شبكة أجيال الإذاعية"} 
+[2016-11-17 10:33:11] local.INFO: The feed has been parsed {"feed_title":"شبكة أنسنة"} 
+[2016-11-17 10:33:15] local.INFO: The feed has been parsed {"feed_title":"شبكة الأخبار العمانية ONN"} 
+[2016-11-17 10:33:17] local.INFO: The feed has been parsed {"feed_title":"شبكة الحرية الإعلامية"} 
+[2016-11-17 10:33:19] local.INFO: The feed has been parsed {"feed_title":"شبكة برشلونة العربية"} 
+[2016-11-17 10:33:22] local.INFO: The feed has been parsed {"feed_title":"شبكة بلدي الإعلامية"} 
+[2016-11-17 10:33:25] local.INFO: The feed has been parsed {"feed_title":"شبكة دكتور نيوترشن"} 
+[2016-11-17 10:33:28] local.INFO: The feed has been parsed {"feed_title":"شبكة راية الإعلامية"} 
+[2016-11-17 10:33:31] local.INFO: The feed has been parsed {"feed_title":"شبكة رصد الرياضية"} 
+[2016-11-17 10:33:34] local.INFO: The feed has been parsed {"feed_title":"شبكة شام الإخبارية"} 
+[2016-11-17 10:33:36] local.INFO: The feed has been parsed {"feed_title":"شبكة عميد الإمارات"} 
+[2016-11-17 10:33:39] local.INFO: The feed has been parsed {"feed_title":"شبكة قدس الإخبارية"} 
+[2016-11-17 10:33:42] local.INFO: The feed has been parsed {"feed_title":"شبكة محيط"} 
+[2016-11-17 10:33:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة أثير الإلكترونية"} 
+[2016-11-17 10:33:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة أرسنال - كووورة"} 
+[2016-11-17 10:33:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأندية سبورت"} 
+[2016-11-17 10:33:57] local.INFO: The feed has been parsed {"feed_title":"صحيفة البلد العمانية الإلكترونية"} 
+[2016-11-17 10:34:00] local.INFO: The feed has been parsed {"feed_title":"صحيفة التحرير الإلكترونية"} 
+[2016-11-17 10:34:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-17 10:34:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-17 10:34:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحياة -  الأخبار السورية"} 
+[2016-11-17 10:34:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحياة الرياضية"} 
+[2016-11-17 10:34:20] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرأي اليوم"} 
+[2016-11-17 10:34:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة الراية الرياضية"} 
+[2016-11-17 10:34:27] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرسالة الإلكترونية"} 
+[2016-11-17 10:34:31] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرياض - الرياضية"} 
+[2016-11-17 10:34:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة السوبر"} 
+[2016-11-17 10:34:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشرق الأوسط"} 
+[2016-11-17 10:34:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشروق"} 
+[2016-11-17 10:34:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة العرب"} 
+[2016-11-17 10:34:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة العربي الجديد"} 
+[2016-11-17 10:34:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة القدس العربي"} 
+[2016-11-17 10:34:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة المدرج الذهبي"} 
+[2016-11-17 10:34:55] local.INFO: The feed has been parsed {"feed_title":"صحيفة المصريون"} 
+[2016-11-17 10:34:58] local.INFO: The feed has been parsed {"feed_title":"صحيفة الموجز الإلكترونية"} 
+[2016-11-17 10:35:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة الهتلان بوست"} 
+[2016-11-17 10:35:05] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة دار الحياة","link":"http://www.twitter.com/alhayatdaily"} 
+[2016-11-17 10:35:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة دار الحياة"} 
+[2016-11-17 10:35:07] local.INFO: The feed has been parsed {"feed_title":"صحيفة دنيا الوطن"} 
+[2016-11-17 10:35:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبق المملكة - الرياضية"} 
+[2016-11-17 10:35:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة مال الإقتصادية"} 
+[2016-11-17 10:35:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة ميلان العربية"} 
+[2016-11-17 10:35:19] local.INFO: The feed has been parsed {"feed_title":"صندوق النقد الدولي"} 
+[2016-11-17 10:35:19] local.INFO: This feed contain empty data in the xml file {"feed_title":"طنجة","link":""} 
+[2016-11-17 10:35:19] local.INFO: The feed has been parsed {"feed_title":"طنجة"} 
+[2016-11-17 10:35:22] local.INFO: The feed has been parsed {"feed_title":"عالم آبل"} 
+[2016-11-17 10:35:25] local.INFO: The feed has been parsed {"feed_title":"عالم التقنية"} 
+[2016-11-17 10:35:29] local.INFO: The feed has been parsed {"feed_title":"عايزه آكل"} 
+[2016-11-17 10:35:33] local.INFO: The feed has been parsed {"feed_title":"عرب جي تي"} 
+[2016-11-17 10:35:37] local.INFO: The feed has been parsed {"feed_title":"عرب هاردوير"} 
+[2016-11-17 10:35:40] local.INFO: The feed has been parsed {"feed_title":"عربي 21"} 
+[2016-11-17 10:35:43] local.INFO: The feed has been parsed {"feed_title":"عرفني دوت كوم"} 
+[2016-11-17 10:35:46] local.INFO: The feed has been parsed {"feed_title":"عكس السير"} 
+[2016-11-17 10:35:49] local.INFO: The feed has been parsed {"feed_title":"عيشوا.كوم"} 
+[2016-11-17 10:35:52] local.INFO: The feed has been parsed {"feed_title":"فالجول مباشر"} 
+[2016-11-17 10:35:54] local.INFO: The feed has been parsed {"feed_title":"فتافيت"} 
+[2016-11-17 10:35:57] local.INFO: The feed has been parsed {"feed_title":"فلسطين أون لاين"} 
+[2016-11-17 10:36:00] local.INFO: The feed has been parsed {"feed_title":"فوربس الشرق الأوسط"} 
+[2016-11-17 10:36:03] local.INFO: The feed has been parsed {"feed_title":"فيفا.كوم"} 
+[2016-11-17 10:37:52] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:40:14] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:40:17] local.INFO: The feed has been parsed {"feed_title":"قناة CBC سفرة"} 
+[2016-11-17 10:40:20] local.INFO: The feed has been parsed {"feed_title":"قناة العربية - رياضة"} 
+[2016-11-17 10:40:24] local.INFO: The feed has been parsed {"feed_title":"قناة دبي الرياضية"} 
+[2016-11-17 10:40:26] local.INFO: The feed has been parsed {"feed_title":"قيمراوي"} 
+[2016-11-17 10:40:29] local.INFO: The feed has been parsed {"feed_title":"كل يوم معلومة طبية"} 
+[2016-11-17 10:40:32] local.INFO: The feed has been parsed {"feed_title":"كلمتي"} 
+[2016-11-17 10:40:34] local.INFO: The feed has been parsed {"feed_title":"كورة لاين"} 
+[2016-11-17 10:40:36] local.INFO: The feed has been parsed {"feed_title":"كورة وورلد"} 
+[2016-11-17 10:40:39] local.INFO: The feed has been parsed {"feed_title":"ليفربول - رسمي"} 
+[2016-11-17 10:40:41] local.INFO: The feed has been parsed {"feed_title":"مانشستر يونايتد"} 
+[2016-11-17 10:40:44] local.INFO: The feed has been parsed {"feed_title":"مجلة الجميلة"} 
+[2016-11-17 10:40:46] local.INFO: The feed has been parsed {"feed_title":"مجلة رجيم"} 
+[2016-11-17 10:40:49] local.INFO: The feed has been parsed {"feed_title":"مجلة روتانا"} 
+[2016-11-17 10:40:51] local.INFO: The feed has been parsed {"feed_title":"مجلة سنوب"} 
+[2016-11-17 10:40:54] local.INFO: The feed has been parsed {"feed_title":"مجلة سيدتي"} 
+[2016-11-17 10:40:56] local.INFO: The feed has been parsed {"feed_title":"مجلة سيدتي فن"} 
+[2016-11-17 10:40:59] local.INFO: The feed has been parsed {"feed_title":"مجلة لها"} 
+[2016-11-17 10:41:01] local.INFO: The feed has been parsed {"feed_title":"مجلة ليالينا"} 
+[2016-11-17 10:41:03] local.INFO: The feed has been parsed {"feed_title":"مجلة ليلة الخميس"} 
+[2016-11-17 10:41:06] local.INFO: The feed has been parsed {"feed_title":"مجلة ماري كلير"} 
+[2016-11-17 10:41:09] local.INFO: The feed has been parsed {"feed_title":"مجلة نقطة العلمية"} 
+[2016-11-17 10:41:12] local.INFO: The feed has been parsed {"feed_title":"مجلة هي"} 
+[2016-11-17 10:41:14] local.INFO: The feed has been parsed {"feed_title":"مجلة وصفات"} 
+[2016-11-17 10:41:17] local.INFO: The feed has been parsed {"feed_title":"مدونة المحترف"} 
+[2016-11-17 10:41:19] local.INFO: The feed has been parsed {"feed_title":"مركز العاصفة"} 
+[2016-11-17 10:41:22] local.INFO: The feed has been parsed {"feed_title":"مركز مسار الإعلامي"} 
+[2016-11-17 10:41:25] local.INFO: The feed has been parsed {"feed_title":"مصر العربية نيوز"} 
+[2016-11-17 10:41:27] local.INFO: The feed has been parsed {"feed_title":"مطبخ سيدتي"} 
+[2016-11-17 10:41:30] local.INFO: The feed has been parsed {"feed_title":"مطبخ قودي"} 
+[2016-11-17 10:41:33] local.INFO: The feed has been parsed {"feed_title":"مكتب إعلام الأسرى"} 
+[2016-11-17 10:41:33] local.INFO: This feed contain empty data in the xml file {"feed_title":"منال العالم","link":""} 
+[2016-11-17 10:41:33] local.INFO: The feed has been parsed {"feed_title":"منال العالم"} 
+[2016-11-17 10:41:36] local.INFO: The feed has been parsed {"feed_title":"موسوعة الملك عبدالله"} 
+[2016-11-17 10:41:38] local.INFO: The feed has been parsed {"feed_title":"موقع 24.ae"} 
+[2016-11-17 10:41:42] local.INFO: The feed has been parsed {"feed_title":"موقع أخبار عجمان"} 
+[2016-11-17 10:41:45] local.INFO: The feed has been parsed {"feed_title":"موقع أراجيك تك"} 
+[2016-11-17 10:41:47] local.INFO: The feed has been parsed {"feed_title":"موقع أنا أصدق العلم"} 
+[2016-11-17 10:41:47] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع أنثى","link":""} 
+[2016-11-17 10:41:47] local.INFO: The feed has been parsed {"feed_title":"موقع أنثى"} 
+[2016-11-17 10:41:50] local.INFO: The feed has been parsed {"feed_title":"موقع أنوثة"} 
+[2016-11-17 10:41:53] local.INFO: The feed has been parsed {"feed_title":"موقع أورينت"} 
+[2016-11-17 10:41:53] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع إسماعيلي أون لاين","link":""} 
+[2016-11-17 10:41:53] local.INFO: The feed has been parsed {"feed_title":"موقع إسماعيلي أون لاين"} 
+[2016-11-17 10:41:59] local.INFO: The feed has been parsed {"feed_title":"موقع اخبار التقنية"} 
+[2016-11-17 10:42:03] local.INFO: The feed has been parsed {"feed_title":"موقع اطيب طبخة"} 
+[2016-11-17 10:42:06] local.INFO: The feed has been parsed {"feed_title":"موقع اف اكس كومنت"} 
+[2016-11-17 10:42:08] local.INFO: The feed has been parsed {"feed_title":"موقع الأخطبوط"} 
+[2016-11-17 10:42:11] local.INFO: The feed has been parsed {"feed_title":"موقع الإقتصادي سورية"} 
+[2016-11-17 10:42:14] local.INFO: The feed has been parsed {"feed_title":"موقع التكنولوجيا العربية"} 
+[2016-11-17 10:42:17] local.INFO: The feed has been parsed {"feed_title":"موقع الحياة التونسية"} 
+[2016-11-17 10:42:19] local.INFO: The feed has been parsed {"feed_title":"موقع السعودي العلمي"} 
+[2016-11-17 10:42:22] local.INFO: The feed has been parsed {"feed_title":"موقع السويس بلدي"} 
+[2016-11-17 10:42:25] local.INFO: The feed has been parsed {"feed_title":"موقع الشارقة 24"} 
+[2016-11-17 10:42:28] local.INFO: The feed has been parsed {"feed_title":"موقع الشاهد"} 
+[2016-11-17 10:42:31] local.INFO: The feed has been parsed {"feed_title":"موقع الصحة والحياة"} 
+[2016-11-17 10:42:34] local.INFO: The feed has been parsed {"feed_title":"موقع القيادي"} 
+[2016-11-17 10:42:37] local.INFO: The feed has been parsed {"feed_title":"موقع المصدر"} 
+[2016-11-17 10:42:40] local.INFO: The feed has been parsed {"feed_title":"موقع الوطنية للإعلام"} 
+[2016-11-17 10:42:43] local.INFO: The feed has been parsed {"feed_title":"موقع انتي أحلى"} 
+[2016-11-17 10:42:45] local.INFO: The feed has been parsed {"feed_title":"موقع اندرويد عربي"} 
+[2016-11-17 10:42:48] local.INFO: The feed has been parsed {"feed_title":"موقع بسمتي"} 
+[2016-11-17 10:42:51] local.INFO: The feed has been parsed {"feed_title":"موقع بطوطة"} 
+[2016-11-17 10:42:53] local.INFO: The feed has been parsed {"feed_title":"موقع بطولات"} 
+[2016-11-17 10:42:55] local.INFO: The feed has been parsed {"feed_title":"موقع بوابة فيتو"} 
+[2016-11-17 10:42:58] local.INFO: The feed has been parsed {"feed_title":"موقع ترافل بيديا"} 
+[2016-11-17 10:43:01] local.INFO: The feed has been parsed {"feed_title":"موقع تك نيوز"} 
+[2016-11-17 10:43:04] local.INFO: The feed has been parsed {"feed_title":"موقع جول.كوم"} 
+[2016-11-17 10:43:07] local.INFO: The feed has been parsed {"feed_title":"موقع ديلي فوركس"} 
+[2016-11-17 10:43:10] local.INFO: The feed has been parsed {"feed_title":"موقع رائج"} 
+[2016-11-17 10:43:13] local.INFO: The feed has been parsed {"feed_title":"موقع راديو أورينت"} 
+[2016-11-17 10:43:16] local.INFO: The feed has been parsed {"feed_title":"موقع راديو موزايك"} 
+[2016-11-17 10:43:20] local.INFO: The feed has been parsed {"feed_title":"موقع رام الله الإخباري"} 
+[2016-11-17 10:43:23] local.INFO: The feed has been parsed {"feed_title":"موقع رصيف 22"} 
+[2016-11-17 10:43:26] local.INFO: The feed has been parsed {"feed_title":"موقع غرف السياحة"} 
+[2016-11-17 10:43:30] local.INFO: The feed has been parsed {"feed_title":"موقع ريادة"} 
+[2016-11-17 10:43:32] local.INFO: The feed has been parsed {"feed_title":"موقع سفاري"} 
+[2016-11-17 10:43:35] local.INFO: The feed has been parsed {"feed_title":"موقع سوالف سوفت"} 
+[2016-11-17 10:43:38] local.INFO: The feed has been parsed {"feed_title":"موقع سيدي"} 
+[2016-11-17 10:43:41] local.INFO: The feed has been parsed {"feed_title":"موقع شهية"} 
+[2016-11-17 10:43:44] local.INFO: The feed has been parsed {"feed_title":"موقع صحة أون لاين"} 
+[2016-11-17 10:43:46] local.INFO: The feed has been parsed {"feed_title":"موقع صدى الملاعب"} 
+[2016-11-17 10:43:50] local.INFO: The feed has been parsed {"feed_title":"موقع عرب ميرور"} 
+[2016-11-17 10:43:52] local.INFO: The feed has been parsed {"feed_title":"موقع عود"} 
+[2016-11-17 10:43:55] local.INFO: The feed has been parsed {"feed_title":"موقع فستاني"} 
+[2016-11-17 10:43:59] local.INFO: The feed has been parsed {"feed_title":"موقع فوشيا"} 
+[2016-11-17 10:44:03] local.INFO: The feed has been parsed {"feed_title":"موقع قول السعودي"} 
+[2016-11-17 10:44:06] local.INFO: The feed has been parsed {"feed_title":"موقع مطبخ حواء"} 
+[2016-11-17 10:44:09] local.INFO: The feed has been parsed {"feed_title":"موقع كووورة"} 
+[2016-11-17 10:44:13] local.INFO: The feed has been parsed {"feed_title":"موقع لعبتنا الرياضي"} 
+[2016-11-17 10:44:17] local.INFO: The feed has been parsed {"feed_title":"موقع لها أون لاين"} 
+[2016-11-17 10:44:21] local.INFO: The feed has been parsed {"feed_title":"موقع ماما حواء"} 
+[2016-11-17 10:44:23] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - الإمارات"} 
+[2016-11-17 10:44:26] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر"} 
+[2016-11-17 10:44:29] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - البحرين"} 
+[2016-11-17 10:44:31] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - السعودية"} 
+[2016-11-17 10:44:32] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - الكويت"} 
+[2016-11-17 10:44:36] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - عمان"} 
+[2016-11-17 10:44:38] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - قطر"} 
+[2016-11-17 10:44:40] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - مصر"} 
+[2016-11-17 10:44:43] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - مصر"} 
+[2016-11-17 10:44:43] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع مبتدأ","link":""} 
+[2016-11-17 10:44:43] local.INFO: The feed has been parsed {"feed_title":"موقع مبتدأ"} 
+[2016-11-17 10:44:46] local.INFO: The feed has been parsed {"feed_title":"موقع مجمع البرامج"} 
+[2016-11-17 10:44:49] local.INFO: The feed has been parsed {"feed_title":"موقع مدار اليوم"} 
+[2016-11-17 10:44:52] local.INFO: The feed has been parsed {"feed_title":"موقع مركز الإمارات"} 
+[2016-11-17 10:44:55] local.INFO: The feed has been parsed {"feed_title":"موقع مشاهد 24"} 
+[2016-11-17 10:44:55] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع نابلس الإخباري","link":""} 
+[2016-11-17 10:44:55] local.INFO: The feed has been parsed {"feed_title":"موقع نابلس الإخباري"} 
+[2016-11-17 10:44:58] local.INFO: The feed has been parsed {"feed_title":"موقع ناسا بالعربي"} 
+[2016-11-17 10:45:01] local.INFO: The feed has been parsed {"feed_title":"موقع نداء الوطن"} 
+[2016-11-17 10:45:04] local.INFO: The feed has been parsed {"feed_title":"موقع نواعم"} 
+[2016-11-17 10:45:07] local.INFO: The feed has been parsed {"feed_title":"موقع نون العلمية"} 
+[2016-11-17 10:45:09] local.INFO: The feed has been parsed {"feed_title":"ميدل إيست أونلاين"} 
+[2016-11-17 10:45:11] local.INFO: The feed has been parsed {"feed_title":"نادي الإتحاد السعودي"} 
+[2016-11-17 10:45:14] local.INFO: The feed has been parsed {"feed_title":"نادي الإتفاق السعودي"} 
+[2016-11-17 10:45:17] local.INFO: The feed has been parsed {"feed_title":"نادي التعاون السعودي"} 
+[2016-11-17 10:45:20] local.INFO: The feed has been parsed {"feed_title":"نادي الجبلين السعودي"} 
+[2016-11-17 10:45:23] local.INFO: The feed has been parsed {"feed_title":"نادي الجزيرة الإماراتي"} 
+[2016-11-17 10:45:23] local.INFO: This feed contain empty data in the xml file {"feed_title":"نادي الدفاع البحريني","link":""} 
+[2016-11-17 10:45:23] local.INFO: The feed has been parsed {"feed_title":"نادي الدفاع البحريني"} 
+[2016-11-17 10:45:26] local.INFO: The feed has been parsed {"feed_title":"نادي الرائد السعودي"} 
+[2016-11-17 10:45:30] local.INFO: The feed has been parsed {"feed_title":"نادي الشارقة"} 
+[2016-11-17 10:45:32] local.INFO: The feed has been parsed {"feed_title":"نادي الشباب السعودي"} 
+[2016-11-17 10:45:35] local.INFO: The feed has been parsed {"feed_title":"نادي الشعلة السعودي"} 
+[2016-11-17 10:45:39] local.INFO: The feed has been parsed {"feed_title":"نادي الطائي السعودي"} 
+[2016-11-17 10:45:42] local.INFO: The feed has been parsed {"feed_title":"نادي العربي السعودي"} 
+[2016-11-17 10:45:45] local.INFO: The feed has been parsed {"feed_title":"نادي العربي الكويتي"} 
+[2016-11-17 10:45:48] local.INFO: The feed has been parsed {"feed_title":"نادي العين الإماراتي"} 
+[2016-11-17 10:45:52] local.INFO: The feed has been parsed {"feed_title":"نادي القادسية الكويتي"} 
+[2016-11-17 10:45:55] local.INFO: The feed has been parsed {"feed_title":"نادي الكويت الرياضي"} 
+[2016-11-17 10:45:58] local.INFO: The feed has been parsed {"feed_title":"نادي النصر السعودي"} 
+[2016-11-17 10:46:01] local.INFO: The feed has been parsed {"feed_title":"نادي الهلال السعودي"} 
+[2016-11-17 10:46:04] local.INFO: The feed has been parsed {"feed_title":"نادي الوصل الإماراتي"} 
+[2016-11-17 10:46:04] local.INFO: This feed contain empty data in the xml file {"feed_title":"نادي برشلونة - جماهير","link":""} 
+[2016-11-17 10:46:04] local.INFO: The feed has been parsed {"feed_title":"نادي برشلونة - جماهير"} 
+[2016-11-17 10:46:06] local.INFO: The feed has been parsed {"feed_title":"نادي برشلونة الرسمي"} 
+[2016-11-17 10:46:08] local.INFO: The feed has been parsed {"feed_title":"نادي ريال مدريد"} 
+[2016-11-17 10:46:11] local.INFO: The feed has been parsed {"feed_title":"نادي ليفربول - صحيفة"} 
+[2016-11-17 10:46:14] local.INFO: The feed has been parsed {"feed_title":"نادي مانشستر سيتس"} 
+[2016-11-17 10:46:17] local.INFO: The feed has been parsed {"feed_title":"نادي مانشستريونايتد - كوووورة"} 
+[2016-11-17 10:46:21] local.INFO: The feed has been parsed {"feed_title":"نصف الدنيا"} 
+[2016-11-17 10:46:24] local.INFO: The feed has been parsed {"feed_title":"نون بوست"} 
+[2016-11-17 10:46:26] local.INFO: This feed contain empty data in the xml file {"feed_title":"نيوتك","link":"http://twitter.com/new1tech1"} 
+[2016-11-17 10:46:26] local.INFO: The feed has been parsed {"feed_title":"نيوتك"} 
+[2016-11-17 10:46:28] local.INFO: The feed has been parsed {"feed_title":"هاشتاق عربي"} 
+[2016-11-17 10:49:12] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:49:16] local.INFO: The feed has been parsed {"feed_title":"هافينغتون بوست عربي"} 
+[2016-11-17 10:49:19] local.INFO: The feed has been parsed {"feed_title":"هاي كورة"} 
+[2016-11-17 10:49:22] local.INFO: The feed has been parsed {"feed_title":"الهيئة العامة للغذاء والدواء"} 
+[2016-11-17 10:49:25] local.INFO: The feed has been parsed {"feed_title":"وفاء لحقوق المرأة"} 
+[2016-11-17 10:49:28] local.INFO: The feed has been parsed {"feed_title":"وكالة أخبار المرأة"} 
+[2016-11-17 10:49:31] local.INFO: The feed has been parsed {"feed_title":"وكالة الحدث الدولية"} 
+[2016-11-17 10:49:33] local.INFO: The feed has been parsed {"feed_title":"وكالة الصفا"} 
+[2016-11-17 10:49:36] local.INFO: The feed has been parsed {"feed_title":"وكالة خبر الفلسطينية للصحافة"} 
+[2016-11-17 10:49:38] local.INFO: The feed has been parsed {"feed_title":"وكالة خطوة الإخبارية"} 
+[2016-11-17 10:49:41] local.INFO: The feed has been parsed {"feed_title":"وكالة سمارت للأنباء"} 
+[2016-11-17 10:49:44] local.INFO: The feed has been parsed {"feed_title":"وكالة سوا الاخبارية"} 
+[2016-11-17 10:49:46] local.INFO: The feed has been parsed {"feed_title":"وكالة فلسطين 24"} 
+[2016-11-17 10:49:50] local.INFO: The feed has been parsed {"feed_title":"وكالة فلسطين برس"} 
+[2016-11-17 10:49:52] local.INFO: The feed has been parsed {"feed_title":"وكالة ميلاد الإخبارية"} 
+[2016-11-17 10:49:55] local.INFO: The feed has been parsed {"feed_title":"ومضة"} 
+[2016-11-17 10:49:58] local.INFO: The feed has been parsed {"feed_title":"ويب طب"} 
+[2016-11-17 10:50:02] local.INFO: The feed has been parsed {"feed_title":"ويكي صحة"} 
+[2016-11-17 10:50:05] local.INFO: The feed has been parsed {"feed_title":"يابلادي"} 
+[2016-11-17 10:50:07] local.INFO: The feed has been parsed {"feed_title":"ياهوو رياضة"} 
+[2016-11-17 10:50:10] local.INFO: The feed has been parsed {"feed_title":"يلا كورة"} 
+[2016-11-17 10:50:13] local.INFO: The feed has been parsed {"feed_title":"يني شفق العربية"} 
+[2016-11-17 10:50:15] local.INFO: The feed has been parsed {"feed_title":"ترك برس"} 
+[2016-11-17 10:50:19] local.INFO: The feed has been parsed {"feed_title":"أمانة عمان الكبرى"} 
+[2016-11-17 10:50:22] local.INFO: The feed has been parsed {"feed_title":"إدارة التعليم ببيشة"} 
+[2016-11-17 10:50:24] local.INFO: The feed has been parsed {"feed_title":"إدارة تعليم مكه"} 
+[2016-11-17 10:50:27] local.INFO: The feed has been parsed {"feed_title":"الدفاع المدني"} 
+[2016-11-17 10:50:27] local.INFO: This feed contain empty data in the xml file {"feed_title":"الديوان الملكي الهاشمي","link":""} 
+[2016-11-17 10:50:27] local.INFO: The feed has been parsed {"feed_title":"الديوان الملكي الهاشمي"} 
+[2016-11-17 10:50:30] local.INFO: The feed has been parsed {"feed_title":"المجلس الأعلى للمرأة"} 
+[2016-11-17 10:50:33] local.INFO: The feed has been parsed {"feed_title":"النيابة العامة البحرينية"} 
+[2016-11-17 10:50:36] local.INFO: The feed has been parsed {"feed_title":"المجلس الوطني الاتحادي"} 
+[2016-11-17 10:50:40] local.INFO: The feed has been parsed {"feed_title":"بلدية مدينة العين"} 
+[2016-11-17 10:50:43] local.INFO: The feed has been parsed {"feed_title":"جامعة قطر"} 
+[2016-11-17 10:50:47] local.INFO: The feed has been parsed {"feed_title":"حماية المستهلك - دبي"} 
+[2016-11-17 10:50:51] local.INFO: The feed has been parsed {"feed_title":"دائرة جمارك دبي"} 
+[2016-11-17 10:50:54] local.INFO: The feed has been parsed {"feed_title":"دار الملك عبد العزيز"} 
+[2016-11-17 10:50:59] local.INFO: The feed has been parsed {"feed_title":"شرطة دبي"} 
+[2016-11-17 10:51:01] local.INFO: The feed has been parsed {"feed_title":"شرطة عجمان"} 
+[2016-11-17 10:51:05] local.INFO: The feed has been parsed {"feed_title":"صحة الرياض"} 
+[2016-11-17 10:51:08] local.INFO: The feed has been parsed {"feed_title":"صحة القصيم"} 
+[2016-11-17 10:51:11] local.INFO: The feed has been parsed {"feed_title":"صندوق زكاة الإمارات"} 
+[2016-11-17 10:51:14] local.INFO: The feed has been parsed {"feed_title":"غرفة دبي"} 
+[2016-11-17 10:51:17] local.INFO: This feed contain empty data in the xml file {"feed_title":"مؤسسة دبي للإعلام","link":"http://twitter.com/dubaimediainc"} 
+[2016-11-17 10:51:17] local.INFO: The feed has been parsed {"feed_title":"مؤسسة دبي للإعلام"} 
+[2016-11-17 10:51:20] local.INFO: The feed has been parsed {"feed_title":"مؤسسة قطر"} 
+[2016-11-17 10:51:24] local.INFO: The feed has been parsed {"feed_title":"مجلس النواب البحريني"} 
+[2016-11-17 10:51:24] local.INFO: This feed contain empty data in the xml file {"feed_title":"مدينة الملك سعود الطبية","link":"https://twitrss.me/twitter_user_to_rss/?user=ksmcmedia?s=02"} 
+[2016-11-17 10:51:24] local.INFO: The feed has been parsed {"feed_title":"مدينة الملك سعود الطبية"} 
+[2016-11-17 10:51:26] local.INFO: The feed has been parsed {"feed_title":"مصدر الشارقة الإعلامي"} 
+[2016-11-17 10:51:28] local.INFO: The feed has been parsed {"feed_title":"مكتب الإتصال الحكومي"} 
+[2016-11-17 10:51:31] local.INFO: The feed has been parsed {"feed_title":"مكتب دبي للإعلام"} 
+[2016-11-17 10:51:34] local.INFO: The feed has been parsed {"feed_title":"نقابة المهندسين الأردنيين"} 
+[2016-11-17 10:51:36] local.INFO: The feed has been parsed {"feed_title":"هيئة التقاعد القطرية"} 
+[2016-11-17 10:51:40] local.INFO: The feed has been parsed {"feed_title":"هيئة الحكومة الإلكترونية"} 
+[2016-11-17 10:51:43] local.INFO: The feed has been parsed {"feed_title":"هيئة الشفافية"} 
+[2016-11-17 10:51:45] local.INFO: The feed has been parsed {"feed_title":"هيئة الطرق والمواصلات في دبي"} 
+[2016-11-17 10:51:48] local.INFO: The feed has been parsed {"feed_title":"هيئة المواصفات"} 
+[2016-11-17 10:51:51] local.INFO: The feed has been parsed {"feed_title":"وزارة الأوقاف - الكويت"} 
+[2016-11-17 10:51:54] local.INFO: The feed has been parsed {"feed_title":"وزارة الإقتصاد الإماراتية"} 
+[2016-11-17 10:51:57] local.INFO: The feed has been parsed {"feed_title":"وزارة الإقتصاد والتجارة"} 
+[2016-11-17 10:52:00] local.INFO: The feed has been parsed {"feed_title":"وزارة البيئة والمياه"} 
+[2016-11-17 10:52:03] local.INFO: The feed has been parsed {"feed_title":"وزارة التجارة والصناعة"} 
+[2016-11-17 10:52:06] local.INFO: The feed has been parsed {"feed_title":"وزارة التربية والتعليم"} 
+[2016-11-17 10:52:09] local.INFO: The feed has been parsed {"feed_title":"وزارة التعليم"} 
+[2016-11-17 10:52:12] local.INFO: The feed has been parsed {"feed_title":"وزارة التعليم - عام"} 
+[2016-11-17 10:52:15] local.INFO: The feed has been parsed {"feed_title":"وزارة الثقافة"} 
+[2016-11-17 10:52:18] local.INFO: The feed has been parsed {"feed_title":"وزارة الخارجية"} 
+[2016-11-17 10:52:21] local.INFO: The feed has been parsed {"feed_title":"وزارة الخارجية - قطر"} 
+[2016-11-17 10:52:24] local.INFO: The feed has been parsed {"feed_title":"وزارة الخارجية البحرينية"} 
+[2016-11-17 10:52:28] local.INFO: The feed has been parsed {"feed_title":"وزارة الداخلية"} 
+[2016-11-17 10:52:31] local.INFO: This feed contain empty data in the xml file {"feed_title":"وزارة الداخلية - قطر","link":"http://twitter.com/moi_qatar"} 
+[2016-11-17 10:52:31] local.INFO: The feed has been parsed {"feed_title":"وزارة الداخلية - قطر"} 
+[2016-11-17 10:52:33] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:52:33] local.INFO: This feed contain empty data in the xml file {"feed_title":"وزارة الدفاع البحرينية","link":""} 
+[2016-11-17 10:52:33] local.INFO: The feed has been parsed {"feed_title":"وزارة الدفاع البحرينية"} 
+[2016-11-17 10:52:33] local.INFO: The feed has been parsed {"feed_title":"وزارة الداخلية البحرينية"} 
+[2016-11-17 10:52:33] local.INFO: This feed contain empty data in the xml file {"feed_title":"وزارة الدفاع البحرينية","link":""} 
+[2016-11-17 10:52:33] local.INFO: The feed has been parsed {"feed_title":"وزارة الدفاع البحرينية"} 
+[2016-11-17 10:52:37] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة الإماراتية"} 
+[2016-11-17 10:52:37] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة الإماراتية"} 
+[2016-11-17 10:52:40] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة البحرينية"} 
+[2016-11-17 10:52:41] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة البحرينية"} 
+[2016-11-17 10:52:45] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة السعودية"} 
+[2016-11-17 10:52:45] local.INFO: The feed has been parsed {"feed_title":"وزارة الصحة السعودية"} 
+[2016-11-17 10:52:50] local.INFO: The feed has been parsed {"feed_title":"وزارة العمل"} 
+[2016-11-17 10:52:50] local.INFO: The feed has been parsed {"feed_title":"وزارة العمل"} 
+[2016-11-17 10:52:52] local.INFO: The feed has been parsed {"feed_title":"فرانس برس بالعربية"} 
+[2016-11-17 10:52:52] local.INFO: The feed has been parsed {"feed_title":"فرانس برس بالعربية"} 
+[2016-11-17 10:52:55] local.INFO: The feed has been parsed {"feed_title":"كونا"} 
+[2016-11-17 10:52:55] local.INFO: The feed has been parsed {"feed_title":"كونا"} 
+[2016-11-17 10:53:38] local.INFO: This feed contain empty data in the xml file {"feed_title":"هلا أخبار","link":"http://www.twitter.com/halaakhbar"} 
+[2016-11-17 10:53:38] local.INFO: The feed has been parsed {"feed_title":"هلا أخبار"} 
+[2016-11-17 10:53:39] local.INFO: This feed contain empty data in the xml file {"feed_title":"هلا أخبار","link":"http://www.twitter.com/halaakhbar"} 
+[2016-11-17 10:53:39] local.INFO: The feed has been parsed {"feed_title":"هلا أخبار"} 
+[2016-11-17 10:53:41] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء أونا"} 
+[2016-11-17 10:53:41] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء أونا"} 
+[2016-11-17 10:53:45] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء الإمارات"} 
+[2016-11-17 10:53:45] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء الإمارات"} 
+[2016-11-17 10:53:47] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء البحرين"} 
+[2016-11-17 10:53:47] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء البحرين"} 
+[2016-11-17 10:53:50] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء سبأ نت"} 
+[2016-11-17 10:53:50] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء سبأ نت"} 
+[2016-11-17 10:53:54] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء سرايا الإخبارية"} 
+[2016-11-17 10:53:54] local.INFO: The feed has been parsed {"feed_title":"وكالة أنباء سرايا الإخبارية"} 
+[2016-11-17 10:53:56] local.INFO: The feed has been parsed {"feed_title":"وكالة الأناضول للأنباء"} 
+[2016-11-17 10:53:56] local.INFO: The feed has been parsed {"feed_title":"وكالة الأناضول للأنباء"} 
+[2016-11-17 10:53:59] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الأردنية"} 
+[2016-11-17 10:53:59] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الأردنية"} 
+[2016-11-17 10:54:02] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الرأي"} 
+[2016-11-17 10:54:03] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الرأي"} 
+[2016-11-17 10:54:05] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء السعودية"} 
+[2016-11-17 10:54:05] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء السعودية"} 
+[2016-11-17 10:54:10] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء العمانية"} 
+[2016-11-17 10:54:10] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء العمانية"} 
+[2016-11-17 10:54:13] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء القطرية"} 
+[2016-11-17 10:54:13] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء القطرية"} 
+[2016-11-17 10:54:16] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الوطنية"} 
+[2016-11-17 10:54:16] local.INFO: The feed has been parsed {"feed_title":"وكالة الأنباء الوطنية"} 
+[2016-11-17 10:54:19] local.INFO: The feed has been parsed {"feed_title":"وكالة السودان للأنباء - سونا"} 
+[2016-11-17 10:54:19] local.INFO: The feed has been parsed {"feed_title":"وكالة السودان للأنباء - سونا"} 
+[2016-11-17 10:54:22] local.INFO: The feed has been parsed {"feed_title":"وكالة المدى برس"} 
+[2016-11-17 10:54:22] local.INFO: The feed has been parsed {"feed_title":"وكالة المدى برس"} 
+[2016-11-17 10:54:25] local.INFO: The feed has been parsed {"feed_title":"وكالة شمس نيوز"} 
+[2016-11-17 10:54:25] local.INFO: The feed has been parsed {"feed_title":"وكالة شمس نيوز"} 
+[2016-11-17 10:54:29] local.INFO: The feed has been parsed {"feed_title":"وكالة عمون الإخبارية"} 
+[2016-11-17 10:54:29] local.INFO: The feed has been parsed {"feed_title":"وكالة عمون الإخبارية"} 
+[2016-11-17 10:54:32] local.INFO: The feed has been parsed {"feed_title":"وكالة قدس نت للأنباء"} 
+[2016-11-17 10:54:32] local.INFO: The feed has been parsed {"feed_title":"وكالة قدس نت للأنباء"} 
+[2016-11-17 10:54:36] local.INFO: The feed has been parsed {"feed_title":"وكالة نبأ الإخبارية"} 
+[2016-11-17 10:54:36] local.INFO: The feed has been parsed {"feed_title":"وكالة نبأ الإخبارية"} 
+[2016-11-17 10:54:37] local.INFO: =========================Service will iterate Again ===================================
+  
+[2016-11-17 10:54:37] local.INFO: =========================Service will iterate Again ===================================
+  
+[2016-11-17 10:55:05] local.INFO: Limit {"limit":137} 
+[2016-11-17 10:55:07] local.INFO: The feed has been parsed {"feed_title":"آيات العرابي"} 
+[2016-11-17 10:55:10] local.INFO: The feed has been parsed {"feed_title":"أ.د. طارق الحبيب"} 
+[2016-11-17 10:55:11] local.INFO: The feed has been parsed {"feed_title":"أحمد السعدون"} 
+[2016-11-17 10:55:13] local.INFO: The feed has been parsed {"feed_title":"أحمد منصور"} 
+[2016-11-17 10:55:15] local.INFO: The feed has been parsed {"feed_title":"أمجد طه"} 
+[2016-11-17 10:55:17] local.INFO: The feed has been parsed {"feed_title":"الشيخ عبدالله بن زايد"} 
+[2016-11-17 10:55:18] local.INFO: This feed contain empty data in the xml file {"feed_title":"توكل كرمان","link":"https://twitrss.me/twitter_user_to_rss/?user=tawakkolkarman?ref_src=twsrc^tfw"} 
+[2016-11-17 10:55:18] local.INFO: The feed has been parsed {"feed_title":"توكل كرمان"} 
+[2016-11-17 10:55:20] local.INFO: The feed has been parsed {"feed_title":"جبران باسل"} 
+[2016-11-17 10:55:22] local.INFO: The feed has been parsed {"feed_title":"حزب حركة النهضة"} 
+[2016-11-17 10:55:24] local.INFO: The feed has been parsed {"feed_title":"خالد الفضالة"} 
+[2016-11-17 10:55:26] local.INFO: The feed has been parsed {"feed_title":"د. باسم يوسف"} 
+[2016-11-17 10:55:27] local.INFO: The feed has been parsed {"feed_title":"د. جمعان الحربش"} 
+[2016-11-17 10:55:29] local.INFO: The feed has been parsed {"feed_title":"د. طارق السويدان"} 
+[2016-11-17 10:55:31] local.INFO: The feed has been parsed {"feed_title":"د. عبدالله النفيسي"} 
+[2016-11-17 10:55:33] local.INFO: The feed has been parsed {"feed_title":"د. فهد الشهابي"} 
+[2016-11-17 10:55:35] local.INFO: The feed has been parsed {"feed_title":"د. محمد الجوادي"} 
+[2016-11-17 10:55:37] local.INFO: The feed has been parsed {"feed_title":"رياض أحمد العدساني"} 
+[2016-11-17 10:55:39] local.INFO: The feed has been parsed {"feed_title":"سعد الحريري"} 
+[2016-11-17 10:55:40] local.INFO: The feed has been parsed {"feed_title":"سمو الشيخ محمد بن راشد آل مكتوم"} 
+[2016-11-17 10:55:42] local.INFO: The feed has been parsed {"feed_title":"سمير جعجع"} 
+[2016-11-17 10:55:44] local.INFO: The feed has been parsed {"feed_title":"صالح محمد الملا"} 
+[2016-11-17 10:55:46] local.INFO: The feed has been parsed {"feed_title":"عبد الرحمن الأبنودي"} 
+[2016-11-17 10:55:48] local.INFO: The feed has been parsed {"feed_title":"عبد الرحمن يوسف"} 
+[2016-11-17 10:55:50] local.INFO: The feed has been parsed {"feed_title":"عزمي بشارة"} 
+[2016-11-17 10:55:51] local.INFO: The feed has been parsed {"feed_title":"علي الجفري"} 
+[2016-11-17 10:55:53] local.INFO: The feed has been parsed {"feed_title":"عمرو حمزاوي"} 
+[2016-11-17 10:55:55] local.INFO: The feed has been parsed {"feed_title":"فؤاد الهاشم"} 
+[2016-11-17 10:55:55] local.INFO: This feed contain empty data in the xml file {"feed_title":"لميس الحديدي","link":""} 
+[2016-11-17 10:55:55] local.INFO: The feed has been parsed {"feed_title":"لميس الحديدي"} 
+[2016-11-17 10:55:57] local.INFO: The feed has been parsed {"feed_title":"محمد العوضي"} 
+[2016-11-17 10:56:01] local.INFO: The feed has been parsed {"feed_title":"مهند سليمان النعيمي"} 
+[2016-11-17 10:56:02] local.INFO: The feed has been parsed {"feed_title":"ميشال عون"} 
+[2016-11-17 10:56:04] local.INFO: The feed has been parsed {"feed_title":"نجيب ميقاتي"} 
+[2016-11-17 10:56:06] local.INFO: The feed has been parsed {"feed_title":"وائل الأبراشي"} 
+[2016-11-17 10:56:08] local.INFO: The feed has been parsed {"feed_title":"وائل خليل"} 
+[2016-11-17 10:56:10] local.INFO: The feed has been parsed {"feed_title":"وائل قنديل"} 
+[2016-11-17 10:56:12] local.INFO: The feed has been parsed {"feed_title":"وليد الطبطبائي"} 
+[2016-11-17 10:56:14] local.INFO: The feed has been parsed {"feed_title":"وليد جنبلاط"} 
+[2016-11-17 10:56:16] local.INFO: The feed has been parsed {"feed_title":"ياسر الزعاترة"} 
+[2016-11-17 10:56:18] local.INFO: The feed has been parsed {"feed_title":"يوسف الحسيني"} 
+[2016-11-17 10:56:19] local.INFO: The feed has been parsed {"feed_title":"وكالة البوصلة الإخبارية"} 
+[2016-11-17 10:56:20] local.INFO: The feed has been parsed {"feed_title":"الراية الاخبارية"} 
+[2016-11-17 10:56:22] local.INFO: The feed has been parsed {"feed_title":"الكون نيوز"} 
+[2016-11-17 10:56:24] local.INFO: The feed has been parsed {"feed_title":"بوابة أخبار اليوم"} 
+[2016-11-17 10:56:26] local.INFO: The feed has been parsed {"feed_title":"بوابة الأهرام"} 
+[2016-11-17 10:56:29] local.INFO: The feed has been parsed {"feed_title":"جريدة عمان"} 
+[2016-11-17 10:56:30] local.INFO: The feed has been parsed {"feed_title":"جريدة الشروق التونسية"} 
+[2016-11-17 10:56:32] local.INFO: The feed has been parsed {"feed_title":"جريدة المال"} 
+[2016-11-17 10:56:34] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشبيبة"} 
+[2016-11-17 10:56:36] local.INFO: The feed has been parsed {"feed_title":"صحيفة أخبار الخليج البحرينية"} 
+[2016-11-17 10:56:37] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأخبار"} 
+[2016-11-17 10:56:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأمارات اليوم"} 
+[2016-11-17 10:56:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأنباء"} 
+[2016-11-17 10:56:42] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأنباط"} 
+[2016-11-17 10:56:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأيام البحرينية"} 
+[2016-11-17 10:56:46] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإتحاد الإماراتية"} 
+[2016-11-17 10:56:48] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإقتصادية"} 
+[2016-11-17 10:56:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة البلاد"} 
+[2016-11-17 10:56:50] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة البلد اللبنانية","link":""} 
+[2016-11-17 10:56:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة البلد اللبنانية"} 
+[2016-11-17 10:56:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة البيان الإماراتية"} 
+[2016-11-17 10:56:54] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجريدة"} 
+[2016-11-17 10:56:56] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجزيرة"} 
+[2016-11-17 10:56:57] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجمهورية"} 
+[2016-11-17 10:56:59] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحياة - اقتصاد"} 
+[2016-11-17 10:57:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخليج الإماراتية"} 
+[2016-11-17 10:57:01] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الدستور","link":""} 
+[2016-11-17 10:57:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور"} 
+[2016-11-17 10:57:01] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الدستور الأردنية","link":""} 
+[2016-11-17 10:57:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور الأردنية"} 
+[2016-11-17 10:57:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة الديار"} 
+[2016-11-17 10:57:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرأي الأردنية"} 
+[2016-11-17 10:57:07] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرؤية"} 
+[2016-11-17 10:57:09] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرؤية العمانية"} 
+[2016-11-17 10:57:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرياض"} 
+[2016-11-17 10:57:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة الرياضية السعودية"} 
+[2016-11-17 10:57:15] local.INFO: The feed has been parsed {"feed_title":"صحيفة السفير"} 
+[2016-11-17 10:57:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة السوسنة الأردنية"} 
+[2016-11-17 10:57:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة السياسة"} 
+[2016-11-17 10:57:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشرق السعودية"} 
+[2016-11-17 10:57:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشرق القطرية"} 
+[2016-11-17 10:57:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشروق"} 
+[2016-11-17 10:57:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة العرب القطرية"} 
+[2016-11-17 10:57:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة الغد"} 
+[2016-11-17 10:57:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة الفجر"} 
+[2016-11-17 10:57:32] local.INFO: The feed has been parsed {"feed_title":"صحيفة القبس"} 
+[2016-11-17 10:57:34] local.INFO: The feed has been parsed {"feed_title":"صحيفة القدس"} 
+[2016-11-17 10:57:36] local.INFO: The feed has been parsed {"feed_title":"صحيفة الكويتية"} 
+[2016-11-17 10:57:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة المدينة"} 
+[2016-11-17 10:57:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة المستقبل اللبنانية"} 
+[2016-11-17 10:57:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة المصري اليوم"} 
+[2016-11-17 10:57:43] local.INFO: The feed has been parsed {"feed_title":"صحيفة النهار"} 
+[2016-11-17 10:57:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة النهار اللبنانية"} 
+[2016-11-17 10:57:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوسط البحرينية"} 
+[2016-11-17 10:57:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوسط الكويتيتة"} 
+[2016-11-17 10:57:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوطن"} 
+[2016-11-17 10:57:54] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوطن البحرينية"} 
+[2016-11-17 10:57:57] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوطن السعودية"} 
+[2016-11-17 10:58:00] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوطن القطرية"} 
+[2016-11-17 10:58:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة الوطن المصرية"} 
+[2016-11-17 10:58:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة اليوم السابع"} 
+[2016-11-17 10:58:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة عكاظ"} 
+[2016-11-17 10:58:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة مكة"} 
+[2016-11-17 10:58:13] local.INFO: The feed has been parsed {"feed_title":"أخبار قناة الآن"} 
+[2016-11-17 10:58:15] local.INFO: The feed has been parsed {"feed_title":"التلفزيون العربي"} 
+[2016-11-17 10:58:17] local.INFO: The feed has been parsed {"feed_title":"الجزيرة عاجل"} 
+[2016-11-17 10:58:20] local.INFO: The feed has been parsed {"feed_title":"العربية عاجل"} 
+[2016-11-17 10:58:23] local.INFO: The feed has been parsed {"feed_title":"الغربية نيوز"} 
+[2016-11-17 10:58:23] local.INFO: This feed contain empty data in the xml file {"feed_title":"القناة الرياضية","link":""} 
+[2016-11-17 10:58:23] local.INFO: The feed has been parsed {"feed_title":"القناة الرياضية"} 
+[2016-11-17 10:58:25] local.INFO: The feed has been parsed {"feed_title":"اللبنانية MTV"} 
+[2016-11-17 10:58:25] local.INFO: This feed contain empty data in the xml file {"feed_title":"برنامج كلام الناس","link":""} 
+[2016-11-17 10:58:25] local.INFO: The feed has been parsed {"feed_title":"برنامج كلام الناس"} 
+[2016-11-17 10:58:28] local.INFO: The feed has been parsed {"feed_title":"تلفزيون دولة الكويت"} 
+[2016-11-17 10:58:31] local.INFO: The feed has been parsed {"feed_title":"تلفزيون قطر"} 
+[2016-11-17 10:58:33] local.INFO: The feed has been parsed {"feed_title":"شبكة الإعلام العراقي"} 
+[2016-11-17 10:58:33] local.INFO: This feed contain empty data in the xml file {"feed_title":"شبكة تونس الاخبارية","link":""} 
+[2016-11-17 10:58:33] local.INFO: The feed has been parsed {"feed_title":"شبكة تونس الاخبارية"} 
+[2016-11-17 10:58:36] local.INFO: The feed has been parsed {"feed_title":"شيكة LBCI الإخبارية"} 
+[2016-11-17 10:58:40] local.INFO: The feed has been parsed {"feed_title":"فلسطين اليوم"} 
+[2016-11-17 10:58:42] local.INFO: The feed has been parsed {"feed_title":"قناة العربية"} 
+[2016-11-17 10:58:45] local.INFO: The feed has been parsed {"feed_title":"قتاة TRT العربية"} 
+[2016-11-17 10:58:48] local.INFO: The feed has been parsed {"feed_title":"قتاة يورو نيوز"} 
+[2016-11-17 10:58:50] local.INFO: The feed has been parsed {"feed_title":"قتناة DW العربية"} 
+[2016-11-17 10:58:53] local.INFO: The feed has been parsed {"feed_title":"قناة 218"} 
+[2016-11-17 10:58:55] local.INFO: The feed has been parsed {"feed_title":"قناة CBC"} 
+[2016-11-17 10:58:56] local.INFO: This feed contain empty data in the xml file {"feed_title":"قناة CNBC العربية","link":"https://twitrss.me/twitter_user_to_rss/?user=cnbcarabia?lang=en"} 
+[2016-11-17 10:58:56] local.INFO: The feed has been parsed {"feed_title":"قناة CNBC العربية"} 
+[2016-11-17 10:58:59] local.INFO: The feed has been parsed {"feed_title":"قناة NBN"} 
+[2016-11-17 10:59:00] local.INFO: The feed has been parsed {"feed_title":"قناة ON"} 
+[2016-11-17 10:59:05] local.INFO: The feed has been parsed {"feed_title":"قناة OTV اللبنانية"} 
+[2016-11-17 10:59:08] local.INFO: The feed has been parsed {"feed_title":"قناة أبو ظبي الأولى"} 
+[2016-11-17 10:59:10] local.INFO: The feed has been parsed {"feed_title":"قناة أبو ظبي الرياضية"} 
+[2016-11-17 10:59:14] local.INFO: The feed has been parsed {"feed_title":"قناة إقرأ الفضائية"} 
+[2016-11-17 10:59:20] local.INFO: The feed has been parsed {"feed_title":"قناة الأقصى الفضائية"} 
+[2016-11-17 10:59:22] local.INFO: The feed has been parsed {"feed_title":"قناة الإتجاه"} 
+[2016-11-17 10:59:25] local.INFO: The feed has been parsed {"feed_title":"قناة الإخبارية"} 
+[2016-11-17 10:59:29] local.INFO: The feed has been parsed {"feed_title":"قناة الإقتصادية"} 
+[2016-11-17 10:59:31] local.INFO: The feed has been parsed {"feed_title":"قناة البغدادية"} 
+[2016-11-17 10:59:33] local.INFO: The feed has been parsed {"feed_title":"قناة الجديد"} 
+[2016-11-17 10:59:36] local.INFO: The feed has been parsed {"feed_title":"قناة الجزيرة"} 
+[2016-11-17 10:59:39] local.INFO: The feed has been parsed {"feed_title":"قناة الجزيرة مباشر"} 
+[2016-11-17 10:59:41] local.INFO: The feed has been parsed {"feed_title":"قناة الحرة"} 
+[2016-11-17 10:59:43] local.INFO: The feed has been parsed {"feed_title":"قناة الحقيقة الدولية"} 
+[2016-11-17 10:59:46] local.INFO: The feed has been parsed {"feed_title":"قناة الحياة"} 
+[2016-11-17 11:15:32] local.INFO: Limit {"limit":137} 
+[2016-11-17 11:15:36] local.INFO: The feed has been parsed {"feed_title":"قناة الدنيا"} 
+[2016-11-17 11:15:41] local.INFO: The feed has been parsed {"feed_title":"قناة الرافدين"} 
+[2016-11-17 11:15:44] local.INFO: The feed has been parsed {"feed_title":"قناة السومرية"} 
+[2016-11-17 11:15:49] local.INFO: The feed has been parsed {"feed_title":"قناة الشارقة"} 
+[2016-11-17 11:15:53] local.INFO: The feed has been parsed {"feed_title":"قناة الشارقة الرياضية"} 
+[2016-11-17 11:15:55] local.INFO: The feed has been parsed {"feed_title":"قناة الشرق"} 
+[2016-11-17 11:15:58] local.INFO: The feed has been parsed {"feed_title":"قناة العالم الإخبارية"} 
+[2016-11-17 11:16:00] local.INFO: The feed has been parsed {"feed_title":"قناة العربية - الأسواق"} 
+[2016-11-17 11:16:02] local.INFO: The feed has been parsed {"feed_title":"قناة العربية (أخبار البحرين)"} 
+[2016-11-17 11:16:04] local.INFO: The feed has been parsed {"feed_title":"قناة العربية (الأخبار السورية)"} 
+[2016-11-17 11:16:07] local.INFO: The feed has been parsed {"feed_title":"قناة العربية (مصر)"} 
+[2016-11-17 11:16:10] local.INFO: The feed has been parsed {"feed_title":"قناة الغد"} 
+[2016-11-17 11:16:14] local.INFO: The feed has been parsed {"feed_title":"قناة القدس"} 
+[2016-11-17 11:16:17] local.INFO: The feed has been parsed {"feed_title":"قناة الكأس الرياضية"} 
+[2016-11-17 11:16:19] local.INFO: The feed has been parsed {"feed_title":"قناة الكوت الفضائية"} 
+[2016-11-17 11:16:23] local.INFO: The feed has been parsed {"feed_title":"قناة الكويت سبورت"} 
+[2016-11-17 11:16:25] local.INFO: The feed has been parsed {"feed_title":"قناة اللؤلؤ الفضائية"} 
+[2016-11-17 11:16:28] local.INFO: The feed has been parsed {"feed_title":"قناة المستقبل"} 
+[2016-11-17 11:16:30] local.INFO: The feed has been parsed {"feed_title":"قناة المنار"} 
+[2016-11-17 11:16:34] local.INFO: The feed has been parsed {"feed_title":"قناة النبأ"} 
+[2016-11-17 11:16:37] local.INFO: The feed has been parsed {"feed_title":"قناة الهلال السعودي"} 
+[2016-11-17 11:16:37] local.INFO: This feed contain empty data in the xml file {"feed_title":"قناة اليرموك","link":""} 
+[2016-11-17 11:16:37] local.INFO: The feed has been parsed {"feed_title":"قناة اليرموك"} 
+[2016-11-17 11:16:42] local.INFO: The feed has been parsed {"feed_title":"قناة بلقيس"} 
+[2016-11-17 11:16:43] local.INFO: The feed has been parsed {"feed_title":"قناة بي بي سي العربية"} 
+[2016-11-17 11:16:43] local.INFO: This feed contain empty data in the xml file {"feed_title":"قناة حلب اليوم","link":""} 
+[2016-11-17 11:16:43] local.INFO: The feed has been parsed {"feed_title":"قناة حلب اليوم"} 
+[2016-11-17 11:16:46] local.INFO: The feed has been parsed {"feed_title":"قناة دبي"} 
+[2016-11-17 11:16:57] local.INFO: This feed contain empty data in the xml file {"feed_title":"قناة رؤيا","link":"https://twitrss.me/twitter_user_to_rss/?user=royatv"} 
+[2016-11-17 11:16:57] local.INFO: The feed has been parsed {"feed_title":"قناة رؤيا"} 
+[2016-11-17 11:17:01] local.INFO: The feed has been parsed {"feed_title":"قناة روسيا اليوم"} 
+[2016-11-17 11:17:04] local.INFO: The feed has been parsed {"feed_title":"قناة سكاي نيوز"} 
+[2016-11-17 11:17:08] local.INFO: The feed has been parsed {"feed_title":"قناة سكاي نيوز - اقتصاد"} 
+[2016-11-17 11:17:15] local.INFO: The feed has been parsed {"feed_title":"قناة سما دبي"} 
+[2016-11-17 11:17:18] local.INFO: The feed has been parsed {"feed_title":"قناة شدا الحرية"} 
+[2016-11-17 11:17:31] local.INFO: This feed contain empty data in the xml file {"feed_title":"قناة فرانس 24","link":"https://twitrss.me/twitter_user_to_rss/?user=france24_ar"} 
+[2016-11-17 11:17:31] local.INFO: The feed has been parsed {"feed_title":"قناة فرانس 24"} 
+[2016-11-17 11:17:37] local.INFO: The feed has been parsed {"feed_title":"قناة ليبيا"} 
+[2016-11-17 11:17:40] local.INFO: The feed has been parsed {"feed_title":"قناة ليبيا الوطنية"} 
+[2016-11-17 11:17:45] local.INFO: The feed has been parsed {"feed_title":"قناة مكملين"} 
+[2016-11-17 11:17:47] local.INFO: The feed has been parsed {"feed_title":"مدى 1 تي في"} 
+[2016-11-17 11:17:50] local.INFO: The feed has been parsed {"feed_title":"موقع سي إن إن العربية"} 
+[2016-11-17 11:17:55] local.INFO: The feed has been parsed {"feed_title":"موقع صدى البلد الإخباري"} 
+[2016-11-17 11:17:58] local.INFO: The feed has been parsed {"feed_title":"مدونة CooLQ8y"} 
+[2016-11-17 11:18:01] local.INFO: The feed has been parsed {"feed_title":"مدونة Q8Ping"} 
+[2016-11-17 11:18:07] local.INFO: The feed has been parsed {"feed_title":"مدونة أبوفلان"} 
+[2016-11-17 11:18:11] local.INFO: The feed has been parsed {"feed_title":"مدونة سياحة"} 
+[2016-11-17 11:18:19] local.INFO: The feed has been parsed {"feed_title":"مدونة فرانكوم"} 
+[2016-11-17 11:18:22] local.INFO: The feed has been parsed {"feed_title":"مدونة كيفي"} 
+[2016-11-17 11:18:28] local.INFO: The feed has been parsed {"feed_title":"NG4A"} 
+[2016-11-17 11:18:31] local.INFO: The feed has been parsed {"feed_title":"يو تي سعودي"} 
+[2016-11-17 11:18:36] local.INFO: The feed has been parsed {"feed_title":"آبليست بالعربية"} 
+[2016-11-17 11:18:40] local.INFO: The feed has been parsed {"feed_title":"آي أو أس كافيه"} 
+[2016-11-17 11:18:41] local.INFO: The feed has been parsed {"feed_title":"آي تي نيوز"} 
+[2016-11-17 11:18:44] local.INFO: The feed has been parsed {"feed_title":"آي فون إسلام"} 
+[2016-11-17 11:18:47] local.INFO: The feed has been parsed {"feed_title":"أجواء نت"} 
+[2016-11-17 11:18:50] local.INFO: The feed has been parsed {"feed_title":"أخبار أبو مرزوق"} 
+[2016-11-17 11:18:50] local.INFO: This feed contain empty data in the xml file {"feed_title":"أخبار أرسنال","link":""} 
+[2016-11-17 11:18:50] local.INFO: The feed has been parsed {"feed_title":"أخبار أرسنال"} 
+[2016-11-17 11:18:53] local.INFO: The feed has been parsed {"feed_title":"أخبار التقنية والتكنولوجيا"} 
+[2016-11-17 11:18:56] local.INFO: The feed has been parsed {"feed_title":"شبكة أخبار العراق"} 
+[2016-11-17 11:18:58] local.INFO: The feed has been parsed {"feed_title":"أخبار اليمنية"} 
+[2016-11-17 11:19:01] local.INFO: The feed has been parsed {"feed_title":"أخبار للنشر"} 
+[2016-11-17 11:19:03] local.INFO: The feed has been parsed {"feed_title":"أخبار ليبيا 24"} 
+[2016-11-17 11:19:03] local.INFO: This feed contain empty data in the xml file {"feed_title":"أسود الفلوجة","link":""} 
+[2016-11-17 11:19:03] local.INFO: The feed has been parsed {"feed_title":"أسود الفلوجة"} 
+[2016-11-17 11:19:06] local.INFO: The feed has been parsed {"feed_title":"اخبارية طبرجل"} 
+[2016-11-17 11:19:10] local.INFO: The feed has been parsed {"feed_title":"إخبارية طريف"} 
+[2016-11-17 11:19:10] local.INFO: This feed contain empty data in the xml file {"feed_title":"إخبارية عرعر","link":"https://twitrss.me/twitter_user_to_rss/?user=aararnews"} 
+[2016-11-17 11:19:10] local.INFO: The feed has been parsed {"feed_title":"إخبارية عرعر"} 
+[2016-11-17 11:19:13] local.INFO: The feed has been parsed {"feed_title":"الأعظمية نيوز"} 
+[2016-11-17 11:19:15] local.INFO: The feed has been parsed {"feed_title":"الإسلام اليوم"} 
+[2016-11-17 11:19:17] local.INFO: The feed has been parsed {"feed_title":"الإقتصاد الأردني"} 
+[2016-11-17 11:19:20] local.INFO: The feed has been parsed {"feed_title":"الحزب الاسلامي العراقي"} 
+[2016-11-17 11:19:22] local.INFO: The feed has been parsed {"feed_title":"الخبر"} 
+[2016-11-17 11:19:22] local.INFO: This feed contain empty data in the xml file {"feed_title":"الخليج العربي","link":""} 
+[2016-11-17 11:19:22] local.INFO: The feed has been parsed {"feed_title":"الخليج العربي"} 
+[2016-11-17 11:19:24] local.INFO: The feed has been parsed {"feed_title":"الرأي برس"} 
+[2016-11-17 11:19:24] local.INFO: This feed contain empty data in the xml file {"feed_title":"الشروق أونلاين","link":""} 
+[2016-11-17 11:19:24] local.INFO: The feed has been parsed {"feed_title":"الشروق أونلاين"} 
+[2016-11-17 11:19:26] local.INFO: The feed has been parsed {"feed_title":"المؤتمر.نت"} 
+[2016-11-17 11:19:28] local.INFO: The feed has been parsed {"feed_title":"المجهر نيوز"} 
+[2016-11-17 11:19:30] local.INFO: The feed has been parsed {"feed_title":"المنارة"} 
+[2016-11-17 11:19:32] local.INFO: The feed has been parsed {"feed_title":"النشرة الإلكترونية"} 
+[2016-11-17 11:19:34] local.INFO: The feed has been parsed {"feed_title":"النور نيوز"} 
+[2016-11-17 11:19:37] local.INFO: The feed has been parsed {"feed_title":"اليمن الآن"} 
+[2016-11-17 11:19:39] local.INFO: The feed has been parsed {"feed_title":"اليمن اليوم"} 
+[2016-11-17 11:19:42] local.INFO: The feed has been parsed {"feed_title":"بانوراما الشرق الأوسط"} 
+[2016-11-17 11:19:45] local.INFO: The feed has been parsed {"feed_title":"براقش نت"} 
+[2016-11-17 11:19:48] local.INFO: The feed has been parsed {"feed_title":"بوابة الوسط"} 
+[2016-11-17 11:19:50] local.INFO: The feed has been parsed {"feed_title":"باب.كوم"} 
+[2016-11-17 11:19:50] local.INFO: This feed contain empty data in the xml file {"feed_title":"بوابتي","link":""} 
+[2016-11-17 11:19:50] local.INFO: The feed has been parsed {"feed_title":"بوابتي"} 
+[2016-11-17 11:19:53] local.INFO: The feed has been parsed {"feed_title":"تيار"} 
+[2016-11-17 11:19:57] local.INFO: The feed has been parsed {"feed_title":"جازان اليوم"} 
+[2016-11-17 11:19:59] local.INFO: The feed has been parsed {"feed_title":"وكالة جراسا نيوز"} 
+[2016-11-17 11:20:04] local.INFO: The feed has been parsed {"feed_title":"حبر"} 
+[2016-11-17 11:20:06] local.INFO: The feed has been parsed {"feed_title":"حضرموت نت"} 
+[2016-11-17 11:20:09] local.INFO: The feed has been parsed {"feed_title":"خبرني"} 
+[2016-11-17 11:20:13] local.INFO: The feed has been parsed {"feed_title":"رؤيا الإخباري"} 
+[2016-11-17 11:20:17] local.INFO: The feed has been parsed {"feed_title":"زاد الأردن الإخباري"} 
+[2016-11-17 11:20:21] local.INFO: The feed has been parsed {"feed_title":"سايبر أمان"} 
+[2016-11-17 11:20:23] local.INFO: The feed has been parsed {"feed_title":"سبق الآن الإعلامية"} 
+[2016-11-17 11:20:26] local.INFO: The feed has been parsed {"feed_title":"سودان مونيتور"} 
+[2016-11-17 11:20:29] local.INFO: The feed has been parsed {"feed_title":"شؤون الساعة"} 
+[2016-11-17 11:20:31] local.INFO: The feed has been parsed {"feed_title":"شبكة الضاحية الإعلامي"} 
+[2016-11-17 11:20:33] local.INFO: The feed has been parsed {"feed_title":"شبكة القطيف الاخبارية"} 
+[2016-11-17 11:20:39] local.INFO: This feed contain empty data in the xml file {"feed_title":"شبكة الميادين","link":"http://mdn.tv/@twitter"} 
+[2016-11-17 11:20:39] local.INFO: The feed has been parsed {"feed_title":"شبكة الميادين"} 
+[2016-11-17 11:20:40] local.INFO: The feed has been parsed {"feed_title":"شبكة نافذة لبنان"} 
+[2016-11-17 11:20:43] local.INFO: The feed has been parsed {"feed_title":"شعب أونلاين"} 
+[2016-11-17 11:20:46] local.INFO: The feed has been parsed {"feed_title":"صحيفة 14 مارس الإلكترونية"} 
+[2016-11-17 11:20:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخفجي الإلكترونية"} 
+[2016-11-17 11:20:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة أرجاء"} 
+[2016-11-17 11:20:56] local.INFO: The feed has been parsed {"feed_title":"صحيفة أضواء الوطن"} 
+[2016-11-17 11:20:59] local.INFO: The feed has been parsed {"feed_title":"صحيفة أم الحمام الإلكترونية"} 
+[2016-11-17 11:21:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنباء الإلكترونية"} 
+[2016-11-17 11:21:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنباء القصيم"} 
+[2016-11-17 11:21:06] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنحاء"} 
+[2016-11-17 11:21:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتحادنا"} 
+[2016-11-17 11:21:11] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة اتي تايقرز","link":""} 
+[2016-11-17 11:21:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتي تايقرز"} 
+[2016-11-17 11:21:15] local.INFO: The feed has been parsed {"feed_title":"أعمال"} 
+[2016-11-17 11:21:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأحساء الآن"} 
+[2016-11-17 11:21:25] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأحساء اليوم"} 
+[2016-11-17 11:21:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة الاحساء نيوز"} 
+[2016-11-17 11:21:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة البندر الإلكترونية"} 
+[2016-11-17 11:21:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة التحلية"} 
+[2016-11-17 11:21:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى الجبيل الإلكترونية"} 
+[2016-11-17 11:21:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجبيل اليوم"} 
+[2016-11-17 11:21:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجماهير الرياضية"} 
+[2016-11-17 11:21:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث اون لاين"} 
+[2016-11-17 11:21:46] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقو"} 
+[2016-11-17 11:21:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخبر تايمز"} 
+[2016-11-17 11:21:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخرج اليوم"} 
+[2016-11-17 11:21:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخليج"} 
+[2016-11-17 11:21:53] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الدوادمي الإلكترونية","link":""} 
+[2016-11-17 11:21:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدوادمي الإلكترونية"} 
+[2016-11-17 11:21:55] local.INFO: The feed has been parsed {"feed_title":"صحيفة السبيل"} 
+[2016-11-17 11:21:56] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة السعودية اليوم","link":"https://twitrss.me/twitter_user_to_rss/?user=al_yaum"} 
+[2016-11-17 11:21:56] local.INFO: The feed has been parsed {"feed_title":"صحيفة السعودية اليوم"} 
+[2016-11-17 11:22:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة العراق الإلكترونية"} 
+[2016-11-17 11:22:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة العصر"} 
+[2016-11-17 11:22:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة العقيق"} 
+[2016-11-17 11:22:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة القصيم نيوز"} 
+[2016-11-17 11:22:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة الكسر"} 
+[2016-11-17 11:22:15] local.INFO: The feed has been parsed {"feed_title":"صحيفة المجاردة اليوم"} 
+[2016-11-17 11:22:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة المختصر الإخبارية"} 
+[2016-11-17 11:22:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة المدرج"} 
+[2016-11-17 11:22:25] local.INFO: The feed has been parsed {"feed_title":"صحيفة المرصد"} 
+[2016-11-17 11:22:29] local.INFO: The feed has been parsed {"feed_title":"صحيفة المسار"} 
+[2016-11-17 11:35:26] local.INFO: Limit {"limit":137} 
+[2016-11-17 11:35:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة المقر"} 
+[2016-11-17 11:35:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة المناطق الإلكترونية"} 
+[2016-11-17 11:35:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة الميدان التعليمي"} 
+[2016-11-17 11:35:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة النادي"} 
+[2016-11-17 11:35:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة انباء الباحة الإلكترونية"} 
+[2016-11-17 11:35:43] local.INFO: The feed has been parsed {"feed_title":"صحيفة بارق الإخبارية"} 
+[2016-11-17 11:35:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة بث الالكترونية"} 
+[2016-11-17 11:35:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة بلقرن"} 
+[2016-11-17 11:35:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة بيشة اليوم"} 
+[2016-11-17 11:35:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى تبوك"} 
+[2016-11-17 11:35:56] local.INFO: The feed has been parsed {"feed_title":"صحيفة تغطيات"} 
+[2016-11-17 11:35:59] local.INFO: The feed has been parsed {"feed_title":"صحيفة تواصل"} 
+[2016-11-17 11:36:02] local.INFO: The feed has been parsed {"feed_title":"صحيفة جدة والناس الإلكترونية"} 
+[2016-11-17 11:36:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة جهينة"} 
+[2016-11-17 11:36:06] local.INFO: The feed has been parsed {"feed_title":"صحيفة حفر الباطن"} 
+[2016-11-17 11:36:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة خاط"} 
+[2016-11-17 11:36:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة خبر الجوف الالكترونية"} 
+[2016-11-17 11:36:12] local.INFO: The feed has been parsed {"feed_title":"صحيفة خليص اليوم"} 
+[2016-11-17 11:36:14] local.INFO: The feed has been parsed {"feed_title":"صحيفة رابغ الإلكترونية"} 
+[2016-11-17 11:36:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة رصد ميوز"} 
+[2016-11-17 11:36:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة رفحاء"} 
+[2016-11-17 11:36:20] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبق"} 
+[2016-11-17 11:36:22] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبق حائل"} 
+[2016-11-17 11:36:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبورت السعودية"} 
+[2016-11-17 11:36:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبورت نيوز"} 
+[2016-11-17 11:36:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة سكب الإلكترونية"} 
+[2016-11-17 11:36:32] local.INFO: The feed has been parsed {"feed_title":"صحيفة سما طريف"} 
+[2016-11-17 11:36:34] local.INFO: The feed has been parsed {"feed_title":"صحيفة سودان موشن الإلكترونية"} 
+[2016-11-17 11:36:36] local.INFO: The feed has been parsed {"feed_title":"صحيفة شؤون الالكتروني"} 
+[2016-11-17 11:36:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة شقراء"} 
+[2016-11-17 11:36:41] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى ألمع"} 
+[2016-11-17 11:36:43] local.INFO: The feed has been parsed {"feed_title":"صحيفة صراحة الإلكترونية"} 
+[2016-11-17 11:36:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة عاجل الإلكترونية"} 
+[2016-11-17 11:36:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة عدن الغد"} 
+[2016-11-17 11:36:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة عسير"} 
+[2016-11-17 11:36:54] local.INFO: The feed has been parsed {"feed_title":"صحيفة عليان الإلكترونية"} 
+[2016-11-17 11:36:57] local.INFO: The feed has been parsed {"feed_title":"صحيفة عناوين"} 
+[2016-11-17 11:36:59] local.INFO: The feed has been parsed {"feed_title":"صحيفة عناية الصحية"} 
+[2016-11-17 11:37:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة عنيزة اليوم"} 
+[2016-11-17 11:37:06] local.INFO: The feed has been parsed {"feed_title":"صحيفة عين تبوك الإلكترونية"} 
+[2016-11-17 11:37:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة عين ليبيا"} 
+[2016-11-17 11:37:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة غاية الإلكترونية"} 
+[2016-11-17 11:37:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة غران"} 
+[2016-11-17 11:37:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة غرب"} 
+[2016-11-17 11:37:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة فجر الإلكترونية"} 
+[2016-11-17 11:37:20] local.INFO: The feed has been parsed {"feed_title":"صحيفة قبس"} 
+[2016-11-17 11:37:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة ماب نيوز"} 
+[2016-11-17 11:37:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة محايل"} 
+[2016-11-17 11:37:30] local.INFO: The feed has been parsed {"feed_title":"صحيفة مفاكرة"} 
+[2016-11-17 11:37:32] local.INFO: The feed has been parsed {"feed_title":"صحيفة مكة الإلكترونية"} 
+[2016-11-17 11:37:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادي الزمالك"} 
+[2016-11-17 11:37:37] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادينا"} 
+[2016-11-17 11:37:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة ناس"} 
+[2016-11-17 11:37:42] local.INFO: The feed has been parsed {"feed_title":"صحيفة نوافيكم الإلكترونية"} 
+[2016-11-17 11:37:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة نيسان"} 
+[2016-11-17 11:37:49] local.INFO: The feed has been parsed {"feed_title":"صحيفة هام الإلكترونية"} 
+[2016-11-17 11:37:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة هروب نيوز"} 
+[2016-11-17 11:37:53] local.INFO: The feed has been parsed {"feed_title":"صحيفة وتين"} 
+[2016-11-17 11:37:55] local.INFO: The feed has been parsed {"feed_title":"صوت الجبل"} 
+[2016-11-17 11:37:58] local.INFO: The feed has been parsed {"feed_title":"صوت المبتعث"} 
+[2016-11-17 11:38:00] local.INFO: The feed has been parsed {"feed_title":"صوت لبنان"} 
+[2016-11-17 11:38:03] local.INFO: The feed has been parsed {"feed_title":"صيدا أون لاين"} 
+[2016-11-17 11:38:08] local.INFO: The feed has been parsed {"feed_title":"عدن بوست"} 
+[2016-11-17 11:38:11] local.INFO: The feed has been parsed {"feed_title":"عدن تايم"} 
+[2016-11-17 11:38:13] local.INFO: The feed has been parsed {"feed_title":"عراق نيوز"} 
+[2016-11-17 11:38:16] local.INFO: The feed has been parsed {"feed_title":"عرعر الآن"} 
+[2016-11-17 11:38:18] local.INFO: The feed has been parsed {"feed_title":"عسير نيوز الإلكترونية"} 
+[2016-11-17 11:38:22] local.INFO: The feed has been parsed {"feed_title":"عمان اليوم"} 
+[2016-11-17 11:38:23] local.INFO: The feed has been parsed {"feed_title":"عمان نيوز"} 
+[2016-11-17 11:38:25] local.INFO: The feed has been parsed {"feed_title":"عين اليمن الأخبارية"} 
+[2016-11-17 11:38:27] local.INFO: The feed has been parsed {"feed_title":"عين اليوم"} 
+[2016-11-17 11:38:29] local.INFO: The feed has been parsed {"feed_title":"فولت"} 
+[2016-11-17 11:38:31] local.INFO: The feed has been parsed {"feed_title":"فيفاء أون لاين"} 
+[2016-11-17 11:38:33] local.INFO: The feed has been parsed {"feed_title":"ليبانون ديبايت"} 
+[2016-11-17 11:38:35] local.INFO: The feed has been parsed {"feed_title":"ليبانون فايلز"} 
+[2016-11-17 11:38:35] local.INFO: This feed contain empty data in the xml file {"feed_title":"ليبيا الآن","link":""} 
+[2016-11-17 11:38:35] local.INFO: The feed has been parsed {"feed_title":"ليبيا الآن"} 
+[2016-11-17 11:38:38] local.INFO: The feed has been parsed {"feed_title":"ليبيا المستقبل"} 
+[2016-11-17 11:38:41] local.INFO: The feed has been parsed {"feed_title":"مأرب برس"} 
+[2016-11-17 11:38:43] local.INFO: The feed has been parsed {"feed_title":"مدينة تعز"} 
+[2016-11-17 11:38:43] local.INFO: This feed contain empty data in the xml file {"feed_title":"مرصد صحح خبرك","link":""} 
+[2016-11-17 11:38:43] local.INFO: The feed has been parsed {"feed_title":"مرصد صحح خبرك"} 
+[2016-11-17 11:38:46] local.INFO: The feed has been parsed {"feed_title":"مركز المشرق للدراسات"} 
+[2016-11-17 11:38:48] local.INFO: The feed has been parsed {"feed_title":"مسند للأنباء"} 
+[2016-11-17 11:38:50] local.INFO: The feed has been parsed {"feed_title":"موقع أردن الإخبارية"} 
+[2016-11-17 11:38:52] local.INFO: The feed has been parsed {"feed_title":"موقع اخبار 24"} 
+[2016-11-17 11:38:52] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع الاخبارية مباشر","link":""} 
+[2016-11-17 11:38:52] local.INFO: The feed has been parsed {"feed_title":"موقع الاخبارية مباشر"} 
+[2016-11-17 11:38:55] local.INFO: The feed has been parsed {"feed_title":"موقع الجزائر 24"} 
+[2016-11-17 11:38:58] local.INFO: The feed has been parsed {"feed_title":"موقع الصوت الإخباري"} 
+[2016-11-17 11:39:01] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع العهد الإخباري","link":"http://www.twitter.com/alahednews"} 
+[2016-11-17 11:39:01] local.INFO: The feed has been parsed {"feed_title":"موقع العهد الإخباري"} 
+[2016-11-17 11:39:03] local.INFO: The feed has been parsed {"feed_title":"موقع الفلق نيوز"} 
+[2016-11-17 11:39:05] local.INFO: The feed has been parsed {"feed_title":"موقع الفيصلي نت"} 
+[2016-11-17 11:39:07] local.INFO: The feed has been parsed {"feed_title":"موقع المدينة الإخبارية"} 
+[2016-11-17 11:39:09] local.INFO: The feed has been parsed {"feed_title":"موقع المندب نيوز"} 
+[2016-11-17 11:39:12] local.INFO: The feed has been parsed {"feed_title":"موقع الموقع"} 
+[2016-11-17 11:39:14] local.INFO: The feed has been parsed {"feed_title":"موقع الوكيل الإخباري"} 
+[2016-11-17 11:39:14] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع اليمن السعيد","link":""} 
+[2016-11-17 11:39:14] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن السعيد"} 
+[2016-11-17 11:39:15] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن العربي"} 
+[2016-11-17 11:39:18] local.INFO: The feed has been parsed {"feed_title":"موقع جماهير الأهلي المصري"} 
+[2016-11-17 11:39:20] local.INFO: The feed has been parsed {"feed_title":"موقع جهينة نيوز"} 
+[2016-11-17 11:39:21] local.INFO: The feed has been parsed {"feed_title":"موقع جي بي سي نيوز"} 
+[2016-11-17 11:39:23] local.INFO: The feed has been parsed {"feed_title":"موقع خبر عاجل"} 
+[2016-11-17 11:39:27] local.INFO: The feed has been parsed {"feed_title":"موقع رووداو"} 
+[2016-11-17 11:39:29] local.INFO: The feed has been parsed {"feed_title":"موقع سوداني أون لاين"} 
+[2016-11-17 11:39:31] local.INFO: The feed has been parsed {"feed_title":"موقع شبكة الشروق"} 
+[2016-11-17 11:39:34] local.INFO: The feed has been parsed {"feed_title":"موقع صوت اليمن"} 
+[2016-11-17 11:39:37] local.INFO: The feed has been parsed {"feed_title":"موقع عدن الحدث"} 
+[2016-11-17 11:39:40] local.INFO: The feed has been parsed {"feed_title":"موقع كراج"} 
+[2016-11-17 11:39:42] local.INFO: The feed has been parsed {"feed_title":"موقع كرمالكم"} 
+[2016-11-17 11:39:43] local.INFO: This feed contain empty data in the xml file {"feed_title":"موقع لبنان 24","link":"https://twitrss.me/twitter_user_to_rss/?user=lebanon24?lang=en"} 
+[2016-11-17 11:39:43] local.INFO: The feed has been parsed {"feed_title":"موقع لبنان 24"} 
+[2016-11-17 11:39:45] local.INFO: The feed has been parsed {"feed_title":"موقع ليبيا السلام"} 
+[2016-11-17 11:39:47] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - السعودية"} 
+[2016-11-17 11:39:50] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - قطر"} 
+[2016-11-17 11:39:54] local.INFO: The feed has been parsed {"feed_title":"موقع مفكرة الاسلام"} 
+[2016-11-17 11:39:57] local.INFO: The feed has been parsed {"feed_title":"موقع ملحق"} 
+[2016-11-17 11:40:01] local.INFO: The feed has been parsed {"feed_title":"موقع يافع نيوز"} 
+[2016-11-17 11:40:05] local.INFO: The feed has been parsed {"feed_title":"موقع يمنات الإخباري"} 
+[2016-11-17 11:40:08] local.INFO: The feed has been parsed {"feed_title":"نيوز السعودية"} 
+[2016-11-17 11:40:11] local.INFO: The feed has been parsed {"feed_title":"هدرة نت"} 
+[2016-11-17 11:40:13] local.INFO: The feed has been parsed {"feed_title":"هيئة السوق المالية السعودية"} 
+[2016-11-17 11:40:17] local.INFO: The feed has been parsed {"feed_title":"وكالة الفرات نيوز"} 
+[2016-11-17 11:40:19] local.INFO: The feed has been parsed {"feed_title":"وكالة خبرللأنباء"} 
+[2016-11-17 11:40:22] local.INFO: The feed has been parsed {"feed_title":"وكالة وامس الاخبارية"} 
+[2016-11-17 11:40:23] local.INFO: The feed has been parsed {"feed_title":"يماني نت"} 
+[2016-11-17 11:40:26] local.INFO: The feed has been parsed {"feed_title":"يمن برس"} 
+[2016-11-17 11:40:28] local.INFO: The feed has been parsed {"feed_title":"يمن مونيتور"} 
+[2016-11-17 11:40:30] local.INFO: The feed has been parsed {"feed_title":"يومية المسار العربي"} 
+[2016-11-17 11:40:31] local.INFO: This feed contain empty data in the xml file {"feed_title":"أخبار المحرق","link":"https://twitrss.me/twitter_user_to_rss/?user=almoharraq_news"} 
+[2016-11-17 11:40:31] local.INFO: The feed has been parsed {"feed_title":"أخبار المحرق"} 
+[2016-11-17 11:40:33] local.INFO: The feed has been parsed {"feed_title":"الأمه نيوز"} 
+[2016-11-17 11:40:36] local.INFO: The feed has been parsed {"feed_title":"البحرين اليوم"} 
+[2016-11-17 11:40:38] local.INFO: The feed has been parsed {"feed_title":"التيار التقدمي الكويتي"} 
+[2016-11-17 11:40:40] local.INFO: The feed has been parsed {"feed_title":"الزاوية الاخبارية"} 
+[2016-11-17 11:40:42] local.INFO: The feed has been parsed {"feed_title":"جريدة 25 فبراير"} 
+[2016-11-17 11:40:47] local.INFO: The feed has been parsed {"feed_title":"جريدة أكاديميا"} 
+[2016-11-17 11:40:49] local.INFO: The feed has been parsed {"feed_title":"جريدة اجيال الالكترونية"} 
+[2016-11-17 11:40:52] local.INFO: The feed has been parsed {"feed_title":"جريدة البلاد"} 
+[2016-11-17 11:40:55] local.INFO: The feed has been parsed {"feed_title":"جريدة الجون"} 
+[2016-11-17 11:40:57] local.INFO: The feed has been parsed {"feed_title":"جريدة الرأي العام"} 
+[2016-11-17 11:40:59] local.INFO: The feed has been parsed {"feed_title":"جريدة الرياضي"} 
+[2016-11-17 12:06:56] local.INFO: Limit {"limit":137} 
+[2016-11-17 12:06:59] local.INFO: The feed has been parsed {"feed_title":"الرياضي"} 
+[2016-11-17 12:07:02] local.INFO: The feed has been parsed {"feed_title":"جريدة الصوت الكويتية"} 
+[2016-11-17 12:07:04] local.INFO: The feed has been parsed {"feed_title":"جريدة حدث الإلكترونية"} 
+[2016-11-17 12:07:04] local.INFO: This feed contain empty data in the xml file {"feed_title":"حياد الإلكترونية","link":""} 
+[2016-11-17 12:07:04] local.INFO: The feed has been parsed {"feed_title":"حياد الإلكترونية"} 
+[2016-11-17 12:07:06] local.INFO: The feed has been parsed {"feed_title":"خدمة برلماني"} 
+[2016-11-17 12:07:08] local.INFO: The feed has been parsed {"feed_title":"دسمان نيوز"} 
+[2016-11-17 12:07:10] local.INFO: The feed has been parsed {"feed_title":"ديرة نيوز"} 
+[2016-11-17 12:07:12] local.INFO: The feed has been parsed {"feed_title":"سكوب نيوز"} 
+[2016-11-17 12:07:14] local.INFO: The feed has been parsed {"feed_title":"شبكة أبناء القائد"} 
+[2016-11-17 12:07:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإرادة الإلكترونية"} 
+[2016-11-17 12:07:16] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الحدث","link":""} 
+[2016-11-17 12:07:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-17 12:07:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحصيلة الإلكترونية"} 
+[2016-11-17 12:07:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقيقة الإلكترونية"} 
+[2016-11-17 12:07:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخبر"} 
+[2016-11-17 12:07:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور الكويتية"} 
+[2016-11-17 12:07:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشامية نيوز الإلكترونية"} 
+[2016-11-17 12:07:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشاهد اليومية"} 
+[2016-11-17 12:07:31] local.INFO: The feed has been parsed {"feed_title":"صحيفة النخبة الإخبارية الإلكترونيه"} 
+[2016-11-17 12:07:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة بيان الكويتية"} 
+[2016-11-17 12:07:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة حديث المدينة"} 
+[2016-11-17 12:07:37] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبر"} 
+[2016-11-17 12:07:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة كاظمة"} 
+[2016-11-17 12:07:40] local.INFO: The feed has been parsed {"feed_title":"صحيفة مرآة البحرين"} 
+[2016-11-17 12:07:42] local.INFO: The feed has been parsed {"feed_title":"كويت نيوز"} 
+[2016-11-17 12:07:44] local.INFO: The feed has been parsed {"feed_title":"مجلة الأحرار الكويتية"} 
+[2016-11-17 12:07:46] local.INFO: The feed has been parsed {"feed_title":"مجلة المجتمع"} 
+[2016-11-17 12:07:48] local.INFO: The feed has been parsed {"feed_title":"منامة بوست"} 
+[2016-11-17 12:07:49] local.INFO: The feed has been parsed {"feed_title":"موقع Q8News"} 
+[2016-11-17 12:07:50] local.INFO: The feed has been parsed {"feed_title":"موقع الموازي"} 
+[2016-11-17 12:07:52] local.INFO: The feed has been parsed {"feed_title":"موقع بحريننا"} 
+[2016-11-17 12:07:54] local.INFO: The feed has been parsed {"feed_title":"موقع كتاب"} 
+[2016-11-17 12:07:56] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - البحرين"} 
+[2016-11-17 12:07:58] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - الكويت"} 
+[2016-11-17 12:08:01] local.INFO: The feed has been parsed {"feed_title":"وكالة إنفراد الإلكترونية"} 
+[2016-11-17 12:08:03] local.INFO: The feed has been parsed {"feed_title":"أخبار اليوم - المسائي"} 
+[2016-11-17 12:08:03] local.INFO: This feed contain empty data in the xml file {"feed_title":"أخبار حصري","link":""} 
+[2016-11-17 12:08:03] local.INFO: The feed has been parsed {"feed_title":"أخبار حصري"} 
+[2016-11-17 12:08:05] local.INFO: The feed has been parsed {"feed_title":"أخبار ملاعب الرياضية"} 
+[2016-11-17 12:08:06] local.INFO: The feed has been parsed {"feed_title":"أخبار نادي إنتر ميلان"} 
+[2016-11-17 12:08:06] local.INFO: This feed contain empty data in the xml file {"feed_title":"أرابيسك","link":""} 
+[2016-11-17 12:08:06] local.INFO: The feed has been parsed {"feed_title":"أرابيسك"} 
+[2016-11-17 12:08:08] local.INFO: The feed has been parsed {"feed_title":"أردرويد"} 
+[2016-11-17 12:08:10] local.INFO: The feed has been parsed {"feed_title":"أريبيان بزنس"} 
+[2016-11-17 12:08:12] local.INFO: The feed has been parsed {"feed_title":"أسرار للنساء فقط"} 
+[2016-11-17 12:08:13] local.INFO: The feed has been parsed {"feed_title":"ألو أريبيا"} 
+[2016-11-17 12:08:16] local.INFO: The feed has been parsed {"feed_title":"أنا زهرة"} 
+[2016-11-17 12:08:18] local.INFO: The feed has been parsed {"feed_title":"أوتوسبورت"} 
+[2016-11-17 12:08:20] local.INFO: The feed has been parsed {"feed_title":"إرم سبورت"} 
+[2016-11-17 12:08:22] local.INFO: The feed has been parsed {"feed_title":"إرم نيوز"} 
+[2016-11-17 12:08:24] local.INFO: The feed has been parsed {"feed_title":"إقلاع الإتحاديين"} 
+[2016-11-17 12:08:26] local.INFO: The feed has been parsed {"feed_title":"إيلاف"} 
+[2016-11-17 12:08:27] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتي سبورت"} 
+[2016-11-17 12:08:28] local.INFO: The feed has been parsed {"feed_title":"تونس الآن"} 
+[2016-11-17 12:08:30] local.INFO: The feed has been parsed {"feed_title":"الإخبارية التونسية"} 
+[2016-11-17 12:08:32] local.INFO: The feed has been parsed {"feed_title":"الإدارة العامة للمرور"} 
+[2016-11-17 12:08:34] local.INFO: The feed has been parsed {"feed_title":"الإقتصادي الإمارات"} 
+[2016-11-17 12:08:36] local.INFO: The feed has been parsed {"feed_title":"الائتلاف الوطني"} 
+[2016-11-17 12:08:37] local.INFO: The feed has been parsed {"feed_title":"الباحثون السوريون"} 
+[2016-11-17 12:08:39] local.INFO: The feed has been parsed {"feed_title":"البوابة نيوز"} 
+[2016-11-17 12:08:43] local.INFO: The feed has been parsed {"feed_title":"البوابة"} 
+[2016-11-17 12:08:46] local.INFO: The feed has been parsed {"feed_title":"التقنية بلا حدود"} 
+[2016-11-17 12:08:50] local.INFO: The feed has been parsed {"feed_title":"الجورنال"} 
+[2016-11-17 12:08:56] local.INFO: The feed has been parsed {"feed_title":"الخليج أونلاين"} 
+[2016-11-17 12:08:58] local.INFO: The feed has been parsed {"feed_title":"الدوري الإنجليزي - EPLWorld"} 
+[2016-11-17 12:09:00] local.INFO: The feed has been parsed {"feed_title":"الذواقة"} 
+[2016-11-17 12:09:01] local.INFO: The feed has been parsed {"feed_title":"السورية نت"} 
+[2016-11-17 12:09:06] local.INFO: The feed has been parsed {"feed_title":"الصباح نيوز"} 
+[2016-11-17 12:09:08] local.INFO: The feed has been parsed {"feed_title":"الطقس في الأردن"} 
+[2016-11-17 12:09:10] local.INFO: The feed has been parsed {"feed_title":"العربية - المغرب العربي"} 
+[2016-11-17 12:09:11] local.INFO: The feed has been parsed {"feed_title":"العربية صحة"} 
+[2016-11-17 12:09:15] local.INFO: The feed has been parsed {"feed_title":"العمق المغربي"} 
+[2016-11-17 12:09:17] local.INFO: The feed has been parsed {"feed_title":"العهد سبورت"} 
+[2016-11-17 12:09:20] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأولمبية البحرينية"} 
+[2016-11-17 12:09:22] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأولمبية الوطنية"} 
+[2016-11-17 12:09:24] local.INFO: The feed has been parsed {"feed_title":"اللجنة الأوليمبية القطرية"} 
+[2016-11-17 12:09:26] local.INFO: The feed has been parsed {"feed_title":"المربع نت"} 
+[2016-11-17 12:09:29] local.INFO: The feed has been parsed {"feed_title":"المركز الفلسطيني للإعلام"} 
+[2016-11-17 12:09:31] local.INFO: The feed has been parsed {"feed_title":"المغرب اليوم"} 
+[2016-11-17 12:09:34] local.INFO: The feed has been parsed {"feed_title":"النادي الأهلي السعودي"} 
+[2016-11-17 12:09:37] local.INFO: The feed has been parsed {"feed_title":"النادي الثقافي"} 
+[2016-11-17 12:09:39] local.INFO: The feed has been parsed {"feed_title":"النهار نيوز"} 
+[2016-11-17 12:09:41] local.INFO: The feed has been parsed {"feed_title":"اليوم 24"} 
+[2016-11-17 12:09:43] local.INFO: The feed has been parsed {"feed_title":"باب نت"} 
+[2016-11-17 12:09:45] local.INFO: The feed has been parsed {"feed_title":"بايرن ميونخ"} 
+[2016-11-17 12:09:46] local.INFO: The feed has been parsed {"feed_title":"برشلونة إلى الأبد"} 
+[2016-11-17 12:09:49] local.INFO: The feed has been parsed {"feed_title":"برنامج المنتصف"} 
+[2016-11-17 12:09:51] local.INFO: The feed has been parsed {"feed_title":"بريق الإمارات"} 
+[2016-11-17 12:09:54] local.INFO: The feed has been parsed {"feed_title":"بوابة أرقام المالية"} 
+[2016-11-17 12:09:56] local.INFO: The feed has been parsed {"feed_title":"بوابة أفريقيا الإخبارية"} 
+[2016-11-17 12:09:58] local.INFO: The feed has been parsed {"feed_title":"بوابة الأهرام الرياضية"} 
+[2016-11-17 12:10:03] local.INFO: The feed has been parsed {"feed_title":"بوابة العين الإخبارية"} 
+[2016-11-17 12:10:06] local.INFO: The feed has been parsed {"feed_title":"بوابة القاهرة"} 
+[2016-11-17 12:10:08] local.INFO: The feed has been parsed {"feed_title":"بوابة الوفد"} 
+[2016-11-17 12:10:10] local.INFO: The feed has been parsed {"feed_title":"بوابة يناير"} 
+[2016-11-17 12:10:13] local.INFO: The feed has been parsed {"feed_title":"بي إن سبورتس"} 
+[2016-11-17 12:10:15] local.INFO: The feed has been parsed {"feed_title":"بيان للإعلام"} 
+[2016-11-17 12:10:17] local.INFO: The feed has been parsed {"feed_title":"تركيا بوست"} 
+[2016-11-17 12:10:19] local.INFO: The feed has been parsed {"feed_title":"تيربو العرب"} 
+[2016-11-17 12:10:21] local.INFO: The feed has been parsed {"feed_title":"جريدة أوليه الرياضية"} 
+[2016-11-17 12:10:23] local.INFO: The feed has been parsed {"feed_title":"جريدة الاقتصادية غزة"} 
+[2016-11-17 12:10:28] local.INFO: The feed has been parsed {"feed_title":"جريدة البورصة"} 
+[2016-11-17 12:10:28] local.INFO: This feed contain empty data in the xml file {"feed_title":"جريدة المحرر","link":""} 
+[2016-11-17 12:10:28] local.INFO: The feed has been parsed {"feed_title":"جريدة المحرر"} 
+[2016-11-17 12:10:31] local.INFO: The feed has been parsed {"feed_title":"جريدة المصدر"} 
+[2016-11-17 12:10:34] local.INFO: The feed has been parsed {"feed_title":"جريدة تونس الخضراء"} 
+[2016-11-17 12:10:36] local.INFO: The feed has been parsed {"feed_title":"جريدة زمان الوصل"} 
+[2016-11-17 12:10:38] local.INFO: The feed has been parsed {"feed_title":"جريدة عالم المال"} 
+[2016-11-17 12:10:41] local.INFO: The feed has been parsed {"feed_title":"جريدة هسبريس الإلكترونية"} 
+[2016-11-17 12:10:43] local.INFO: The feed has been parsed {"feed_title":"جولنا"} 
+[2016-11-17 12:10:45] local.INFO: The feed has been parsed {"feed_title":"جوهرة أف آم"} 
+[2016-11-17 12:10:47] local.INFO: The feed has been parsed {"feed_title":"حديث العقار"} 
+[2016-11-17 12:10:48] local.INFO: The feed has been parsed {"feed_title":"خبارنا"} 
+[2016-11-17 12:10:51] local.INFO: The feed has been parsed {"feed_title":"خدمة مصدر الإخبارية"} 
+[2016-11-17 12:10:57] local.INFO: The feed has been parsed {"feed_title":"دنيا التكنولوجيا"} 
+[2016-11-17 12:10:59] local.INFO: The feed has been parsed {"feed_title":"دوت مصر"} 
+[2016-11-17 12:11:02] local.INFO: The feed has been parsed {"feed_title":"رؤية عجمان الإخبارية"} 
+[2016-11-17 12:11:02] local.INFO: This feed contain empty data in the xml file {"feed_title":"راديو الكوفية","link":""} 
+[2016-11-17 12:11:02] local.INFO: The feed has been parsed {"feed_title":"راديو الكوفية"} 
+[2016-11-17 12:11:05] local.INFO: The feed has been parsed {"feed_title":"زاجل للإعلام"} 
+[2016-11-17 12:11:07] local.INFO: The feed has been parsed {"feed_title":"زووم تونيزيا"} 
+[2016-11-17 12:11:10] local.INFO: The feed has been parsed {"feed_title":"ساسة بوست"} 
+[2016-11-17 12:11:12] local.INFO: The feed has been parsed {"feed_title":"سامسونج ارابيا"} 
+[2016-11-17 12:11:18] local.INFO: The feed has been parsed {"feed_title":"سبورت 360"} 
+[2016-11-17 12:11:20] local.INFO: The feed has been parsed {"feed_title":"سعودي شفت"} 
+[2016-11-17 12:11:23] local.INFO: The feed has been parsed {"feed_title":"سكاي نيوز الرياضية"} 
+[2016-11-17 12:11:26] local.INFO: The feed has been parsed {"feed_title":"سلة التطبيقات"} 
+[2016-11-17 12:11:27] local.INFO: This feed contain empty data in the xml file {"feed_title":"سنيار","link":"https://twitrss.me/twitter_user_to_rss/?user=omarfasilah/status/795141165565747200"} 
+[2016-11-17 12:11:27] local.INFO: The feed has been parsed {"feed_title":"سنيار"} 
+[2016-11-17 12:11:27] local.INFO: This feed contain empty data in the xml file {"feed_title":"سوريا عاجل","link":""} 
+[2016-11-17 12:11:27] local.INFO: The feed has been parsed {"feed_title":"سوريا عاجل"} 
+[2016-11-17 12:11:35] local.INFO: The feed has been parsed {"feed_title":"شبكة أبو نواف"} 
+[2016-11-17 12:11:42] local.INFO: The feed has been parsed {"feed_title":"شبكة أجيال الإذاعية"} 
+[2016-11-17 12:11:49] local.INFO: The feed has been parsed {"feed_title":"شبكة أنسنة"} 
+[2016-11-17 12:11:54] local.INFO: The feed has been parsed {"feed_title":"شبكة الأخبار العمانية ONN"} 
+[2016-11-17 12:11:59] local.INFO: The feed has been parsed {"feed_title":"شبكة الحرية الإعلامية"} 
+[2016-11-17 12:12:08] local.INFO: The feed has been parsed {"feed_title":"شبكة برشلونة العربية"} 
+[2016-11-17 12:12:17] local.INFO: This feed contain empty data in the xml file {"feed_title":"شبكة بلدي الإعلامية","link":"https://twitrss.me/twitter_user_to_rss/?user=baladinetwork"} 
+[2016-11-17 12:12:17] local.INFO: The feed has been parsed {"feed_title":"شبكة بلدي الإعلامية"} 
+[2016-11-17 12:12:23] local.INFO: The feed has been parsed {"feed_title":"شبكة دكتور نيوترشن"} 
+[2016-11-17 12:12:29] local.INFO: The feed has been parsed {"feed_title":"شبكة راية الإعلامية"} 
+[2016-11-17 12:12:35] local.INFO: The feed has been parsed {"feed_title":"شبكة رصد الرياضية"} 
+[2016-11-17 12:12:41] local.INFO: The feed has been parsed {"feed_title":"شبكة شام الإخبارية"} 
+[2016-11-17 12:12:46] local.INFO: The feed has been parsed {"feed_title":"شبكة عميد الإمارات"} 
+[2016-11-17 12:12:52] local.INFO: The feed has been parsed {"feed_title":"شبكة قدس الإخبارية"} 

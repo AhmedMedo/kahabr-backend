@@ -1,0 +1,16 @@
+[2016-11-01 08:44:44] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-01 08:45:05] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السياحة","feed_title":"مجلة السياحة"} 
+[2016-11-01 08:45:09] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-01 08:45:13] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-01 08:45:19] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-01 10:33:17] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-01 10:33:27] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-01 10:33:31] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-01 20:31:47] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:31:51] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:31:53] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:31:54] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:31:56] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:32:12] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:32:23] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-01 20:32:35] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 

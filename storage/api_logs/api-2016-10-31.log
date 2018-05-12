@@ -1,0 +1,181 @@
+[2016-10-31 05:37:25] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ru","country":"ru"} 
+[2016-10-31 05:37:35] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ru","country":"ru"} 
+[2016-10-31 05:40:33] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ru","country":"ru"} 
+[2016-10-31 06:04:55] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 06:06:58] local.ERROR: Getting user preferences: No user found related to the given email {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"testairpushsdk@gmail.com"} 
+[2016-10-31 06:15:53] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 06:16:05] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-31 06:17:19] local.INFO: Saving user  preferences:user preferences Saved {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"testairpushsdk@gmail.com"} 
+[2016-10-31 06:17:21] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"testairpushsdk@gmail.com"} 
+[2016-10-31 06:21:31] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"testairpushsdk@gmail.com"} 
+[2016-10-31 06:24:58] local.ERROR: Getting user preferences: No user found related to the given email {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"dGVzdGFpcnB1c2hzZGtAZ21haWwuY29t"} 
+[2016-10-31 06:25:09] local.ERROR: Getting user preferences: No user found related to the given email {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"dGVzdGFpcnB1c2hzZGtAZ21haWwuY29t"} 
+[2016-10-31 06:25:13] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 06:25:16] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"testairpushsdk@gmail.com"} 
+[2016-10-31 06:25:23] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"testairpushsdk@gmail.com"} 
+[2016-10-31 08:13:12] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 08:13:13] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 08:13:17] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 08:13:18] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 08:13:23] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 09:07:50] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"shamsgeek@gmail.com"} 
+[2016-10-31 09:08:16] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"shamsgeek@gmail.com"} 
+[2016-10-31 12:31:18] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 12:31:20] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Technology","topic":"Technology"} 
+[2016-10-31 12:31:23] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-31 12:31:29] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-31 12:31:47] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-31 12:33:47] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:33:48] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:41:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:41:07] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 12:41:10] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-31 12:41:14] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:41:15] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:41:19] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:41:22] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:41:31] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:41:38] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/top%20Gear","feed_title":"top Gear"} 
+[2016-10-31 12:44:14] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:16] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:17] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:19] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:22] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:24] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:44:32] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:45:16] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sa","country":"sa"} 
+[2016-10-31 12:54:54] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 12:55:00] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:55:13] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:55:22] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:55:25] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:55:27] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:55:29] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:56:33] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 12:59:04] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:00] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:15] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:17] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:20] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:23] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:25] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:49] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:51] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:54] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/852800/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:00:58] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:01:01] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-31 13:01:08] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:01:08] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:01:13] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:01:15] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-31 13:01:17] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:01:17] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:03:11] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:03:12] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:03:14] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:03:20] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Economics","topic":"Economics"} 
+[2016-10-31 13:03:22] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Economics","topic":"Economics"} 
+[2016-10-31 13:03:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:03:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:13] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:15] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:04:18] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-31 13:04:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:42] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:04:50] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Women","topic":"Women"} 
+[2016-10-31 13:04:54] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:54] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:04:56] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:04:59] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 13:05:02] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 13:05:03] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 13:05:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:05:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-10-31 13:05:53] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:05:59] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-31 13:06:03] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:06:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:06:11] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:13] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:15] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:16] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:17] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:20] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:22] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:24] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:25] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:26] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:28] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:30] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:06:38] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السياحة","feed_title":"مجلة السياحة"} 
+[2016-10-31 13:06:40] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السياحة/recent/833704/20","feed_title":"مجلة السياحة"} 
+[2016-10-31 13:06:43] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:25] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:26] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:27] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:28] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:35] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:37] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:07:38] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:08:52] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:08:54] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:01] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:02] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:03] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:05] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:06] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:07] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:08] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:10] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:11] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:12] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:13] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:14] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:16] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:17] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:09:27] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:12:59] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجلة%20السيارات","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:13:16] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:14:53] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:14:57] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:02] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:20] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:23] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:44] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:47] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:15:53] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:18:22] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/مجلة%20السيارات/recent/855467/20","feed_title":"مجلة السيارات"} 
+[2016-10-31 13:18:34] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:19:14] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-31 13:19:17] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Economics","topic":"Economics"} 
+[2016-10-31 13:19:21] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Economics","topic":"Economics"} 
+[2016-10-31 13:19:21] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-31 13:19:44] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:19:44] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 13:21:02] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"malisobh2010@gmail.com"} 
+[2016-10-31 13:21:05] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:21:10] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 13:21:30] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-31 13:21:48] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/categories","country":"international"} 
+[2016-10-31 13:21:51] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-31 13:21:53] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"malisobh2010@gmail.com"} 
+[2016-10-31 13:21:53] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"malisobh2010@gmail.com"} 
+[2016-10-31 13:26:34] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:26:39] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/categories","country":"international"} 
+[2016-10-31 13:26:57] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-31 13:39:32] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 13:40:03] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-31 14:01:22] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"37a1067c171b1f42@khabar.fekracomputers.com"} 
+[2016-10-31 16:18:24] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:18:30] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:19:10] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:19:21] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:19:40] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:20:09] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:20:20] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:20:29] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:20:38] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:21:09] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:24:09] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 
+[2016-10-31 16:37:43] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ro","country":"ro"} 

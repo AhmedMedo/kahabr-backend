@@ -1,0 +1,11 @@
+[2016-10-24 20:19:14] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"imam.mostafa@gmail.com"} 
+[2016-10-24 20:19:24] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-24 20:19:25] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"imam.mostafa@gmail.com"} 
+[2016-10-24 20:19:27] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-24 20:19:31] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-24 20:19:41] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"imam.mostafa@gmail.com"} 
+[2016-10-24 20:19:43] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"imam.mostafa@gmail.com"} 
+[2016-10-24 20:19:55] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/موقع%20مباشر%20-%20مصر","feed_title":"موقع مباشر - مصر"} 
+[2016-10-24 20:20:07] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/موقع%20مباشر%20-%20مصر/recent/648374/20","feed_title":"موقع مباشر - مصر"} 
+[2016-10-24 20:20:17] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/af/مجله%20التكنولوجيا","feed_title":"مجله التكنولوجيا"} 
+[2016-10-24 20:20:49] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"imam.mostafa@gmail.com"} 

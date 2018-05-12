@@ -1,0 +1,17 @@
+[2016-11-12 11:36:30] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-12 11:38:55] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 11:59:59] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 12:02:25] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 12:02:49] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 12:04:29] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 12:05:59] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 12:08:55] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/كلمتى","feed_title":"كلمتى"} 
+[2016-11-12 12:11:15] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/كلمتى/more/1140384/20","feed_title":"كلمتى"} 
+[2016-11-12 15:50:27] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-12 16:29:12] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-12 17:08:30] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-12 17:11:56] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-12 17:13:20] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 17:14:57] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 17:16:20] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-12 17:17:44] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 

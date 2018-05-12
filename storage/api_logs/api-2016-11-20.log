@@ -1,0 +1,3 @@
+[2016-11-20 11:11:05] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://localhost/news-backend/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-20 11:12:04] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://localhost/news-backend/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-20 11:22:05] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://localhost/news-backend/api/menu/ar/eg/categories","country":"eg"} 

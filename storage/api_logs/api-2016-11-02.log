@@ -1,0 +1,33 @@
+[2016-11-02 05:00:16] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/in","country":"in"} 
+[2016-11-02 06:03:13] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/sy","country":"sy"} 
+[2016-11-02 11:34:12] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-02 22:37:07] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-02 22:37:10] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-02 22:37:15] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-02 22:37:30] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-02 22:37:42] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"3504f0574037d001@khabar.fekracomputers.com"} 
+[2016-11-02 22:37:51] local.INFO: Getting user preferences: User preferences Has been found {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 22:37:53] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 22:37:54] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-02 22:37:56] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 22:38:45] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-02 22:38:50] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 22:42:37] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/international/سي%20ان%20ان","feed_title":"سي ان ان"} 
+[2016-11-02 22:42:45] local.INFO: User Bookmark: User bookmark has been loaded  {"url":"http://khabar.fekracomputers.com/api/getnews"} 
+[2016-11-02 22:43:17] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 22:43:20] local.INFO: User Bookmark: User bookmark has been loaded  {"url":"http://khabar.fekracomputers.com/api/getnews"} 
+[2016-11-02 22:53:52] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:36:43] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:41:55] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:42:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:42:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:42:16] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:42:16] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:47:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:50:04] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:50:04] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:50:23] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:54:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:54:16] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:54:16] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 
+[2016-11-02 23:58:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"mostafa.imam@smartprostar.com"} 

@@ -1,0 +1,609 @@
+[2016-11-23 05:24:10] local.ERROR: exception 'ErrorException' with message 'Argument 2 passed to str_replace_array() must be of the type array, string given, called in C:\wamp64\www\news-backend\app\FeedService\FeedService.php on line 392 and defined' in C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Support\helpers.php:699
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Support\helpers.php(699): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Argument 2 pass...', 'C:\\wamp64\\www\\n...', 699, Array)
+#1 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(392): str_replace_array('https://', '', '\xD8\xAA\xD8\xA7\xD8\xA8\xD8\xB9\xD9\x88\xD8\xA7 \xD8\xA8...')
+#2 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(267): App\FeedService\FeedService->GetItemContents(Object(SimpleXMLElement), Object(App\Feed), 'tw')
+#3 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(131): App\FeedService\FeedService->saveNews(Array, Object(App\Feed), Object(SimpleXMLElement), 'tw')
+#4 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(49): App\FeedService\FeedService->ValidateXMLParsing(Object(App\Feed), 'tw')
+#5 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(61): App\FeedService\FeedService->SingleFeedParse('778')
+#6 [internal function]: App\Http\Controllers\NewsController->FeedParse()
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#8 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('FeedParse', Array)
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), 'FeedParse')
+#10 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'FeedParse')
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'FeedParse')
+#17 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#25 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#27 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#41 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#42 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#43 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#44 {main}  
+[2016-11-23 06:30:49] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')'' in C:\wamp64\www\news-backend\app\News.php:42
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(131): Symfony\Component\Debug\Exception\FatalErrorException->__construct()
+#1 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError()
+#2 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(0): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#3 C:\wamp64\www\news-backend\vendor\composer\ClassLoader.php(301): Composer\Autoload\includeFile()
+#4 C:\wamp64\www\news-backend\app\Feed.php(878): Composer\Autoload\ClassLoader->loadClass()
+#5 C:\wamp64\www\news-backend\app\Feed.php(878): spl_autoload_call()
+#6 C:\wamp64\www\news-backend\app\Feed.php(18): Illuminate\Database\Eloquent\Model->hasMany()
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(2638): App\Feed->news()
+#8 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(2573): Illuminate\Database\Eloquent\Model->getRelationshipFromMethod()
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(3263): Illuminate\Database\Eloquent\Model->getAttribute()
+#10 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(213): Illuminate\Database\Eloquent\Model->__get()
+#11 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(235): App\FeedService\FeedService->GetLastTitle()
+#12 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(124): App\FeedService\FeedService->GetNewsFromParsing()
+#13 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(49): App\FeedService\FeedService->ValidateXMLParsing()
+#14 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(61): App\FeedService\FeedService->SingleFeedParse()
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): App\Http\Controllers\NewsController->FeedParse()
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php:246}()
+#17 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction()
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call()
+#19 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}()
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#21 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then()
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack()
+#25 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch()
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher()
+#27 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run()
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then()
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack()
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute()
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch()
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}()
+#37 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#39 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle()
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#41 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle()
+#42 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#43 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle()
+#44 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#45 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle()
+#46 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#47 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle()
+#48 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#49 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#50 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then()
+#51 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#52 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle()
+#53 C:\wamp64\www\news-backend\index.php(0): {main}()
+#54 {main}  
+[2016-11-23 06:31:34] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')'' in C:\wamp64\www\news-backend\app\News.php:42
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(131): Symfony\Component\Debug\Exception\FatalErrorException->__construct()
+#1 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError()
+#2 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(0): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#3 C:\wamp64\www\news-backend\vendor\composer\ClassLoader.php(301): Composer\Autoload\includeFile()
+#4 C:\wamp64\www\news-backend\app\Feed.php(878): Composer\Autoload\ClassLoader->loadClass()
+#5 C:\wamp64\www\news-backend\app\Feed.php(878): spl_autoload_call()
+#6 C:\wamp64\www\news-backend\app\Feed.php(18): Illuminate\Database\Eloquent\Model->hasMany()
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(2638): App\Feed->news()
+#8 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(2573): Illuminate\Database\Eloquent\Model->getRelationshipFromMethod()
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Model.php(3263): Illuminate\Database\Eloquent\Model->getAttribute()
+#10 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(213): Illuminate\Database\Eloquent\Model->__get()
+#11 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(235): App\FeedService\FeedService->GetLastTitle()
+#12 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(124): App\FeedService\FeedService->GetNewsFromParsing()
+#13 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(49): App\FeedService\FeedService->ValidateXMLParsing()
+#14 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(61): App\FeedService\FeedService->SingleFeedParse()
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): App\Http\Controllers\NewsController->FeedParse()
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php:246}()
+#17 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction()
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call()
+#19 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}()
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#21 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then()
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack()
+#25 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch()
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher()
+#27 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run()
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then()
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack()
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute()
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch()
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}()
+#37 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:141}()
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#39 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle()
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#41 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle()
+#42 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#43 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle()
+#44 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#45 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle()
+#46 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#47 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle()
+#48 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+#49 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func:{C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php:101}()
+#50 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then()
+#51 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#52 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle()
+#53 C:\wamp64\www\news-backend\index.php(0): {main}()
+#54 {main}  
+[2016-11-23 07:06:59] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:07:00] local.INFO: The feed has been parsed {"feed_title":"مدونة Q8Ping"} 
+[2016-11-23 07:07:16] local.INFO: This feed contain empty data in the xml file {"feed_title":"مدونة أبوفلان","link":"https://twitter.com/aboflan"} 
+[2016-11-23 07:07:16] local.INFO: The feed has been parsed {"feed_title":"مدونة أبوفلان"} 
+[2016-11-23 07:07:20] local.INFO: The feed has been parsed {"feed_title":"مدونة سياحة"} 
+[2016-11-23 07:07:21] local.INFO: The feed has been parsed {"feed_title":"مدونة فرانكوم"} 
+[2016-11-23 07:07:24] local.INFO: The feed has been parsed {"feed_title":"مدونة كيفي"} 
+[2016-11-23 07:07:25] local.INFO: The feed has been parsed {"feed_title":"NG4A"} 
+[2016-11-23 07:07:25] local.INFO: The feed has been parsed {"feed_title":"يو تي سعودي"} 
+[2016-11-23 07:07:29] local.INFO: The feed has been parsed {"feed_title":"آبليست بالعربية"} 
+[2016-11-23 07:07:31] local.INFO: The feed has been parsed {"feed_title":"آي أو أس كافيه"} 
+[2016-11-23 07:07:35] local.INFO: The feed has been parsed {"feed_title":"آي تي نيوز"} 
+[2016-11-23 07:07:38] local.INFO: The feed has been parsed {"feed_title":"آي فون إسلام"} 
+[2016-11-23 07:07:41] local.INFO: The feed has been parsed {"feed_title":"أجواء نت"} 
+[2016-11-23 07:07:41] local.INFO: The feed has been parsed {"feed_title":"أخبار أبو مرزوق"} 
+[2016-11-23 07:07:44] local.INFO: The feed has been parsed {"feed_title":"أخبار أرسنال"} 
+[2016-11-23 07:07:51] local.INFO: The feed has been parsed {"feed_title":"أخبار التقنية والتكنولوجيا"} 
+[2016-11-23 07:07:57] local.INFO: The feed has been parsed {"feed_title":"شبكة أخبار العراق"} 
+[2016-11-23 07:08:01] local.INFO: The feed has been parsed {"feed_title":"أخبار اليمنية"} 
+[2016-11-23 07:08:04] local.INFO: The feed has been parsed {"feed_title":"أخبار للنشر"} 
+[2016-11-23 07:08:08] local.INFO: The feed has been parsed {"feed_title":"أخبار ليبيا 24"} 
+[2016-11-23 07:08:11] local.INFO: The feed has been parsed {"feed_title":"أسود الفلوجة"} 
+[2016-11-23 07:08:14] local.INFO: The feed has been parsed {"feed_title":"اخبارية طبرجل"} 
+[2016-11-23 07:08:14] local.INFO: The feed has been parsed {"feed_title":"إخبارية طريف"} 
+[2016-11-23 07:08:14] local.INFO: This feed contain empty data in the xml file {"feed_title":"إخبارية عرعر","link":"https://twitter.com/aararnews"} 
+[2016-11-23 07:08:14] local.INFO: The feed has been parsed {"feed_title":"إخبارية عرعر"} 
+[2016-11-23 07:08:18] local.INFO: The feed has been parsed {"feed_title":"الأعظمية نيوز"} 
+[2016-11-23 07:08:21] local.INFO: The feed has been parsed {"feed_title":"الإسلام اليوم"} 
+[2016-11-23 07:08:25] local.INFO: The feed has been parsed {"feed_title":"الإقتصاد الأردني"} 
+[2016-11-23 07:08:28] local.INFO: The feed has been parsed {"feed_title":"الحزب الاسلامي العراقي"} 
+[2016-11-23 07:08:31] local.INFO: The feed has been parsed {"feed_title":"الخبر"} 
+[2016-11-23 07:08:34] local.INFO: The feed has been parsed {"feed_title":"الخليج العربي"} 
+[2016-11-23 07:08:37] local.INFO: The feed has been parsed {"feed_title":"الرأي برس"} 
+[2016-11-23 07:08:40] local.INFO: The feed has been parsed {"feed_title":"الشروق أونلاين"} 
+[2016-11-23 07:08:41] local.INFO: The feed has been parsed {"feed_title":"المؤتمر.نت"} 
+[2016-11-23 07:08:41] local.INFO: The feed has been parsed {"feed_title":"المجهر نيوز"} 
+[2016-11-23 07:08:42] local.INFO: The feed has been parsed {"feed_title":"المنارة"} 
+[2016-11-23 07:08:42] local.INFO: The feed has been parsed {"feed_title":"النشرة الإلكترونية"} 
+[2016-11-23 07:13:34] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:13:38] local.INFO: The feed has been parsed {"feed_title":"النور نيوز"} 
+[2016-11-23 07:13:39] local.INFO: The feed has been parsed {"feed_title":"اليمن الآن"} 
+[2016-11-23 07:13:39] local.INFO: The feed has been parsed {"feed_title":"اليمن اليوم"} 
+[2016-11-23 07:13:42] local.INFO: The feed has been parsed {"feed_title":"بانوراما الشرق الأوسط"} 
+[2016-11-23 07:13:43] local.INFO: The feed has been parsed {"feed_title":"براقش نت"} 
+[2016-11-23 07:13:46] local.INFO: The feed has been parsed {"feed_title":"بوابة الوسط"} 
+[2016-11-23 07:13:46] local.INFO: The feed has been parsed {"feed_title":"باب.كوم"} 
+[2016-11-23 07:13:49] local.INFO: The feed has been parsed {"feed_title":"بوابتي"} 
+[2016-11-23 07:13:52] local.INFO: The feed has been parsed {"feed_title":"تيار"} 
+[2016-11-23 07:13:53] local.INFO: The feed has been parsed {"feed_title":"جازان اليوم"} 
+[2016-11-23 07:13:56] local.INFO: The feed has been parsed {"feed_title":"وكالة جراسا نيوز"} 
+[2016-11-23 07:13:59] local.INFO: The feed has been parsed {"feed_title":"حبر"} 
+[2016-11-23 07:14:02] local.INFO: The feed has been parsed {"feed_title":"حضرموت نت"} 
+[2016-11-23 07:14:05] local.INFO: The feed has been parsed {"feed_title":"خبرني"} 
+[2016-11-23 07:14:08] local.INFO: The feed has been parsed {"feed_title":"رؤيا الإخباري"} 
+[2016-11-23 07:14:09] local.INFO: The feed has been parsed {"feed_title":"زاد الأردن الإخباري"} 
+[2016-11-23 07:14:12] local.INFO: The feed has been parsed {"feed_title":"سايبر أمان"} 
+[2016-11-23 07:14:15] local.INFO: The feed has been parsed {"feed_title":"سبق الآن الإعلامية"} 
+[2016-11-23 07:14:17] local.INFO: The feed has been parsed {"feed_title":"سودان مونيتور"} 
+[2016-11-23 07:14:17] local.INFO: The feed has been parsed {"feed_title":"شؤون الساعة"} 
+[2016-11-23 07:14:20] local.INFO: The feed has been parsed {"feed_title":"شبكة الضاحية الإعلامي"} 
+[2016-11-23 07:14:22] local.INFO: The feed has been parsed {"feed_title":"شبكة القطيف الاخبارية"} 
+[2016-11-23 07:14:25] local.INFO: The feed has been parsed {"feed_title":"شبكة الميادين"} 
+[2016-11-23 07:14:28] local.INFO: The feed has been parsed {"feed_title":"شبكة نافذة لبنان"} 
+[2016-11-23 07:14:30] local.INFO: The feed has been parsed {"feed_title":"شعب أونلاين"} 
+[2016-11-23 07:14:33] local.INFO: The feed has been parsed {"feed_title":"صحيفة 14 مارس الإلكترونية"} 
+[2016-11-23 07:14:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخفجي الإلكترونية"} 
+[2016-11-23 07:14:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة أرجاء"} 
+[2016-11-23 07:14:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة أضواء الوطن"} 
+[2016-11-23 07:14:40] local.INFO: The feed has been parsed {"feed_title":"صحيفة أم الحمام الإلكترونية"} 
+[2016-11-23 07:14:42] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنباء الإلكترونية"} 
+[2016-11-23 07:14:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنباء القصيم"} 
+[2016-11-23 07:14:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة أنحاء"} 
+[2016-11-23 07:14:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتحادنا"} 
+[2016-11-23 07:14:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة اتي تايقرز"} 
+[2016-11-23 07:17:47] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:17:48] local.INFO: The feed has been parsed {"feed_title":"أعمال"} 
+[2016-11-23 07:17:55] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأحساء الآن"} 
+[2016-11-23 07:17:58] local.INFO: The feed has been parsed {"feed_title":"صحيفة الأحساء اليوم"} 
+[2016-11-23 07:18:02] local.INFO: The feed has been parsed {"feed_title":"صحيفة الاحساء نيوز"} 
+[2016-11-23 07:18:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة البندر الإلكترونية"} 
+[2016-11-23 07:18:07] local.INFO: The feed has been parsed {"feed_title":"صحيفة التحلية"} 
+[2016-11-23 07:18:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى الجبيل الإلكترونية"} 
+[2016-11-23 07:18:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجبيل اليوم"} 
+[2016-11-23 07:18:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة الجماهير الرياضية"} 
+[2016-11-23 07:18:15] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث اون لاين"} 
+[2016-11-23 07:18:15] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقو"} 
+[2016-11-23 07:18:19] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخبر تايمز"} 
+[2016-11-23 07:18:22] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخرج اليوم"} 
+[2016-11-23 07:18:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة الخليج"} 
+[2016-11-23 07:18:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدوادمي الإلكترونية"} 
+[2016-11-23 07:18:26] local.ERROR: Facebook\Exceptions\FacebookSDKException: Unable to convert response from Graph to a GraphEdge because the response does not look like a GraphEdge. Try using GraphNodeFactory::makeGraphNode() instead. in C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\GraphNodes\GraphNodeFactory.php:239
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\GraphNodes\GraphNodeFactory.php(195): Facebook\GraphNodes\GraphNodeFactory->validateResponseCastableAsGraphEdge()
+#1 C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\FacebookResponse.php(408): Facebook\GraphNodes\GraphNodeFactory->makeGraphEdge(NULL, true)
+#2 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(48): Facebook\FacebookResponse->getGraphEdge()
+#3 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(22): App\FeedService\FaceBook->GetFaceBookPosts(Object(App\Feed))
+#4 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(82): App\FeedService\FaceBook->Start(Object(App\Feed))
+#5 C:\wamp64\www\news-backend\app\Console\Commands\FeedParsing.php(44): App\FeedService\FeedService->GetLastNews()
+#6 [internal function]: App\Console\Commands\FeedParsing->fire()
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Container\Container.php(526): call_user_func_array(Array, Array)
+#8 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Console\Command.php(115): Illuminate\Container\Container->call(Array)
+#9 C:\wamp64\www\news-backend\vendor\symfony\console\Symfony\Component\Console\Command\Command.php(257): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Console\Command.php(101): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\wamp64\www\news-backend\vendor\symfony\console\Symfony\Component\Console\Application.php(874): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\wamp64\www\news-backend\vendor\symfony\console\Symfony\Component\Console\Application.php(195): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\FeedParsing), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\wamp64\www\news-backend\vendor\symfony\console\Symfony\Component\Console\Application.php(126): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(94): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\wamp64\www\news-backend\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 {main}  
+[2016-11-23 07:21:58] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:22:00] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة السعودية اليوم","link":"https://twitter.com/al_yaum"} 
+[2016-11-23 07:22:00] local.INFO: The feed has been parsed {"feed_title":"صحيفة السعودية اليوم"} 
+[2016-11-23 07:22:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة العراق الإلكترونية"} 
+[2016-11-23 07:22:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة العصر"} 
+[2016-11-23 07:22:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة العقيق"} 
+[2016-11-23 07:22:06] local.INFO: The feed has been parsed {"feed_title":"صحيفة القصيم نيوز"} 
+[2016-11-23 07:22:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة الكسر"} 
+[2016-11-23 07:22:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة المجاردة اليوم"} 
+[2016-11-23 07:22:11] local.INFO: The feed has been parsed {"feed_title":"صحيفة المختصر الإخبارية"} 
+[2016-11-23 07:22:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة المدرج"} 
+[2016-11-23 07:22:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة المرصد"} 
+[2016-11-23 07:22:22] local.INFO: The feed has been parsed {"feed_title":"صحيفة المسار"} 
+[2016-11-23 07:22:25] local.INFO: The feed has been parsed {"feed_title":"صحيفة المقر"} 
+[2016-11-23 07:22:27] local.INFO: The feed has been parsed {"feed_title":"صحيفة المناطق الإلكترونية"} 
+[2016-11-23 07:22:32] local.INFO: The feed has been parsed {"feed_title":"صحيفة الميدان التعليمي"} 
+[2016-11-23 07:22:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة النادي"} 
+[2016-11-23 07:22:38] local.INFO: The feed has been parsed {"feed_title":"صحيفة انباء الباحة الإلكترونية"} 
+[2016-11-23 07:22:40] local.INFO: The feed has been parsed {"feed_title":"صحيفة بارق الإخبارية"} 
+[2016-11-23 07:22:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة بث الالكترونية"} 
+[2016-11-23 07:22:44] local.INFO: The feed has been parsed {"feed_title":"صحيفة بلقرن"} 
+[2016-11-23 07:22:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة بيشة اليوم"} 
+[2016-11-23 07:22:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى تبوك"} 
+[2016-11-23 07:22:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة تغطيات"} 
+[2016-11-23 07:22:48] local.INFO: The feed has been parsed {"feed_title":"صحيفة تواصل"} 
+[2016-11-23 07:22:48] local.INFO: The feed has been parsed {"feed_title":"صحيفة جدة والناس الإلكترونية"} 
+[2016-11-23 07:22:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة جهينة"} 
+[2016-11-23 07:22:50] local.INFO: The feed has been parsed {"feed_title":"صحيفة حفر الباطن"} 
+[2016-11-23 07:22:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة خاط"} 
+[2016-11-23 07:22:51] local.INFO: The feed has been parsed {"feed_title":"صحيفة خبر الجوف الالكترونية"} 
+[2016-11-23 07:22:54] local.INFO: The feed has been parsed {"feed_title":"صحيفة خليص اليوم"} 
+[2016-11-23 07:22:56] local.INFO: The feed has been parsed {"feed_title":"صحيفة رابغ الإلكترونية"} 
+[2016-11-23 07:22:59] local.INFO: The feed has been parsed {"feed_title":"صحيفة رصد ميوز"} 
+[2016-11-23 07:23:00] local.INFO: The feed has been parsed {"feed_title":"صحيفة رفحاء"} 
+[2016-11-23 07:23:01] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبق"} 
+[2016-11-23 07:23:03] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبق حائل"} 
+[2016-11-23 07:23:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبورت السعودية"} 
+[2016-11-23 07:25:10] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:25:10] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:25:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبورت نيوز"} 
+[2016-11-23 07:25:14] local.INFO: The feed has been parsed {"feed_title":"صحيفة سكب الإلكترونية"} 
+[2016-11-23 07:25:14] local.INFO: The feed has been parsed {"feed_title":"صحيفة سما طريف"} 
+[2016-11-23 07:25:14] local.INFO: The feed has been parsed {"feed_title":"صحيفة سكب الإلكترونية"} 
+[2016-11-23 07:25:15] local.INFO: The feed has been parsed {"feed_title":"صحيفة سما طريف"} 
+[2016-11-23 07:25:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة سودان موشن الإلكترونية"} 
+[2016-11-23 07:25:18] local.INFO: The feed has been parsed {"feed_title":"صحيفة سودان موشن الإلكترونية"} 
+[2016-11-23 07:25:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة شؤون الالكتروني"} 
+[2016-11-23 07:25:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة شؤون الالكتروني"} 
+[2016-11-23 07:25:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة شقراء"} 
+[2016-11-23 07:25:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة شقراء"} 
+[2016-11-23 07:25:27] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى ألمع"} 
+[2016-11-23 07:25:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة صراحة الإلكترونية"} 
+[2016-11-23 07:25:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة صدى ألمع"} 
+[2016-11-23 07:25:29] local.INFO: The feed has been parsed {"feed_title":"صحيفة صراحة الإلكترونية"} 
+[2016-11-23 07:25:31] local.INFO: The feed has been parsed {"feed_title":"صحيفة عاجل الإلكترونية"} 
+[2016-11-23 07:25:32] local.INFO: The feed has been parsed {"feed_title":"صحيفة عاجل الإلكترونية"} 
+[2016-11-23 07:25:34] local.INFO: The feed has been parsed {"feed_title":"صحيفة عدن الغد"} 
+[2016-11-23 07:25:35] local.INFO: The feed has been parsed {"feed_title":"صحيفة عدن الغد"} 
+[2016-11-23 07:25:39] local.INFO: The feed has been parsed {"feed_title":"صحيفة عسير"} 
+[2016-11-23 07:25:40] local.INFO: The feed has been parsed {"feed_title":"صحيفة عليان الإلكترونية"} 
+[2016-11-23 07:25:42] local.INFO: The feed has been parsed {"feed_title":"صحيفة عناوين"} 
+[2016-11-23 07:25:45] local.INFO: The feed has been parsed {"feed_title":"صحيفة عناية الصحية"} 
+[2016-11-23 07:25:47] local.INFO: The feed has been parsed {"feed_title":"صحيفة عنيزة اليوم"} 
+[2016-11-23 07:25:47] local.ERROR: exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\Facebook.php:263
+Stack trace:
+#0 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(37): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(22): App\FeedService\FaceBook->GetFaceBookPosts(Object(App\Feed))
+#2 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(82): App\FeedService\FaceBook->Start(Object(App\Feed))
+#3 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(69): App\FeedService\FeedService->GetLastNews()
+#4 [internal function]: App\Http\Controllers\NewsController->test()
+#5 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#6 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('test', Array)
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), 'test')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'test')
+#14 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'test')
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#39 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#41 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#42 {main}  
+[2016-11-23 07:26:45] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:26:48] local.INFO: The feed has been parsed {"feed_title":"صحيفة عين ليبيا"} 
+[2016-11-23 07:26:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة غاية الإلكترونية"} 
+[2016-11-23 07:26:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة غران"} 
+[2016-11-23 07:26:52] local.INFO: The feed has been parsed {"feed_title":"صحيفة غرب"} 
+[2016-11-23 07:26:55] local.INFO: The feed has been parsed {"feed_title":"صحيفة فجر الإلكترونية"} 
+[2016-11-23 07:26:58] local.INFO: The feed has been parsed {"feed_title":"صحيفة قبس"} 
+[2016-11-23 07:27:02] local.INFO: The feed has been parsed {"feed_title":"صحيفة ماب نيوز"} 
+[2016-11-23 07:27:02] local.INFO: The feed has been parsed {"feed_title":"صحيفة محايل"} 
+[2016-11-23 07:27:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة مفاكرة"} 
+[2016-11-23 07:27:05] local.INFO: The feed has been parsed {"feed_title":"صحيفة مكة الإلكترونية"} 
+[2016-11-23 07:27:08] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادي الزمالك"} 
+[2016-11-23 07:27:10] local.INFO: The feed has been parsed {"feed_title":"صحيفة نادينا"} 
+[2016-11-23 07:27:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة ناس"} 
+[2016-11-23 07:27:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة نوافيكم الإلكترونية"} 
+[2016-11-23 07:27:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة نيسان"} 
+[2016-11-23 07:27:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة هام الإلكترونية"} 
+[2016-11-23 07:27:20] local.INFO: The feed has been parsed {"feed_title":"صحيفة هروب نيوز"} 
+[2016-11-23 07:27:23] local.INFO: The feed has been parsed {"feed_title":"صحيفة وتين"} 
+[2016-11-23 07:27:26] local.INFO: The feed has been parsed {"feed_title":"صوت الجبل"} 
+[2016-11-23 07:27:29] local.INFO: The feed has been parsed {"feed_title":"صوت المبتعث"} 
+[2016-11-23 07:27:32] local.INFO: The feed has been parsed {"feed_title":"صوت لبنان"} 
+[2016-11-23 07:27:35] local.INFO: The feed has been parsed {"feed_title":"صيدا أون لاين"} 
+[2016-11-23 07:27:38] local.INFO: The feed has been parsed {"feed_title":"عدن بوست"} 
+[2016-11-23 07:27:39] local.INFO: The feed has been parsed {"feed_title":"عدن تايم"} 
+[2016-11-23 07:27:41] local.INFO: The feed has been parsed {"feed_title":"عراق نيوز"} 
+[2016-11-23 07:27:41] local.INFO: The feed has been parsed {"feed_title":"عرعر الآن"} 
+[2016-11-23 07:27:44] local.INFO: The feed has been parsed {"feed_title":"عسير نيوز الإلكترونية"} 
+[2016-11-23 07:27:48] local.INFO: The feed has been parsed {"feed_title":"عمان اليوم"} 
+[2016-11-23 07:27:51] local.INFO: The feed has been parsed {"feed_title":"عمان نيوز"} 
+[2016-11-23 07:27:54] local.INFO: The feed has been parsed {"feed_title":"عين اليمن الأخبارية"} 
+[2016-11-23 07:27:57] local.INFO: The feed has been parsed {"feed_title":"عين اليوم"} 
+[2016-11-23 07:28:00] local.INFO: The feed has been parsed {"feed_title":"فولت"} 
+[2016-11-23 07:28:03] local.INFO: The feed has been parsed {"feed_title":"فيفاء أون لاين"} 
+[2016-11-23 07:28:06] local.INFO: The feed has been parsed {"feed_title":"ليبانون ديبايت"} 
+[2016-11-23 07:28:08] local.INFO: The feed has been parsed {"feed_title":"ليبانون فايلز"} 
+[2016-11-23 07:29:19] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:29:20] local.INFO: The feed has been parsed {"feed_title":"ليبيا الآن"} 
+[2016-11-23 07:29:24] local.INFO: The feed has been parsed {"feed_title":"ليبيا المستقبل"} 
+[2016-11-23 07:29:30] local.INFO: The feed has been parsed {"feed_title":"مأرب برس"} 
+[2016-11-23 07:29:36] local.INFO: The feed has been parsed {"feed_title":"مدينة تعز"} 
+[2016-11-23 07:29:41] local.INFO: The feed has been parsed {"feed_title":"مرصد صحح خبرك"} 
+[2016-11-23 07:29:43] local.INFO: The feed has been parsed {"feed_title":"مركز المشرق للدراسات"} 
+[2016-11-23 07:29:47] local.INFO: The feed has been parsed {"feed_title":"مسند للأنباء"} 
+[2016-11-23 07:29:50] local.INFO: The feed has been parsed {"feed_title":"موقع أردن الإخبارية"} 
+[2016-11-23 07:29:52] local.INFO: The feed has been parsed {"feed_title":"موقع اخبار 24"} 
+[2016-11-23 07:29:53] local.INFO: The feed has been parsed {"feed_title":"موقع الاخبارية مباشر"} 
+[2016-11-23 07:29:56] local.INFO: The feed has been parsed {"feed_title":"موقع الجزائر 24"} 
+[2016-11-23 07:29:59] local.INFO: The feed has been parsed {"feed_title":"موقع الصوت الإخباري"} 
+[2016-11-23 07:30:02] local.INFO: The feed has been parsed {"feed_title":"موقع العهد الإخباري"} 
+[2016-11-23 07:30:04] local.INFO: The feed has been parsed {"feed_title":"موقع الفلق نيوز"} 
+[2016-11-23 07:30:10] local.INFO: The feed has been parsed {"feed_title":"موقع الفيصلي نت"} 
+[2016-11-23 07:30:19] local.INFO: The feed has been parsed {"feed_title":"موقع المدينة الإخبارية"} 
+[2016-11-23 07:30:19] local.INFO: The feed has been parsed {"feed_title":"موقع المندب نيوز"} 
+[2016-11-23 07:30:25] local.INFO: The feed has been parsed {"feed_title":"موقع الموقع"} 
+[2016-11-23 07:30:28] local.INFO: The feed has been parsed {"feed_title":"موقع الوكيل الإخباري"} 
+[2016-11-23 07:30:32] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن السعيد"} 
+[2016-11-23 07:30:35] local.INFO: The feed has been parsed {"feed_title":"موقع اليمن العربي"} 
+[2016-11-23 07:30:38] local.INFO: The feed has been parsed {"feed_title":"موقع جماهير الأهلي المصري"} 
+[2016-11-23 07:30:45] local.INFO: The feed has been parsed {"feed_title":"موقع جهينة نيوز"} 
+[2016-11-23 07:30:48] local.INFO: The feed has been parsed {"feed_title":"موقع جي بي سي نيوز"} 
+[2016-11-23 07:30:51] local.INFO: The feed has been parsed {"feed_title":"موقع خبر عاجل"} 
+[2016-11-23 07:30:53] local.INFO: The feed has been parsed {"feed_title":"موقع رووداو"} 
+[2016-11-23 07:30:58] local.INFO: The feed has been parsed {"feed_title":"موقع سوداني أون لاين"} 
+[2016-11-23 07:30:58] local.INFO: The feed has been parsed {"feed_title":"موقع شبكة الشروق"} 
+[2016-11-23 07:31:00] local.INFO: The feed has been parsed {"feed_title":"موقع صوت اليمن"} 
+[2016-11-23 07:31:06] local.INFO: The feed has been parsed {"feed_title":"موقع عدن الحدث"} 
+[2016-11-23 07:31:09] local.INFO: The feed has been parsed {"feed_title":"موقع كراج"} 
+[2016-11-23 07:31:14] local.INFO: The feed has been parsed {"feed_title":"موقع كرمالكم"} 
+[2016-11-23 07:31:17] local.INFO: The feed has been parsed {"feed_title":"موقع لبنان 24"} 
+[2016-11-23 07:31:20] local.INFO: The feed has been parsed {"feed_title":"موقع ليبيا السلام"} 
+[2016-11-23 07:31:24] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - السعودية"} 
+[2016-11-23 07:36:45] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:36:48] local.INFO: The feed has been parsed {"feed_title":"موقع مباشر - قطر"} 
+[2016-11-23 07:36:54] local.INFO: The feed has been parsed {"feed_title":"موقع مفكرة الاسلام"} 
+[2016-11-23 07:36:59] local.INFO: The feed has been parsed {"feed_title":"موقع ملحق"} 
+[2016-11-23 07:37:03] local.INFO: The feed has been parsed {"feed_title":"موقع يافع نيوز"} 
+[2016-11-23 07:37:08] local.INFO: The feed has been parsed {"feed_title":"موقع يمنات الإخباري"} 
+[2016-11-23 07:37:09] local.INFO: The feed has been parsed {"feed_title":"نيوز السعودية"} 
+[2016-11-23 07:37:13] local.INFO: The feed has been parsed {"feed_title":"هدرة نت"} 
+[2016-11-23 07:37:16] local.INFO: The feed has been parsed {"feed_title":"هيئة السوق المالية السعودية"} 
+[2016-11-23 07:37:20] local.INFO: The feed has been parsed {"feed_title":"وكالة الفرات نيوز"} 
+[2016-11-23 07:37:26] local.INFO: The feed has been parsed {"feed_title":"وكالة خبرللأنباء"} 
+[2016-11-23 07:37:30] local.INFO: The feed has been parsed {"feed_title":"وكالة وامس الاخبارية"} 
+[2016-11-23 07:37:34] local.INFO: The feed has been parsed {"feed_title":"يماني نت"} 
+[2016-11-23 07:37:38] local.INFO: The feed has been parsed {"feed_title":"يمن برس"} 
+[2016-11-23 07:37:41] local.INFO: The feed has been parsed {"feed_title":"يمن مونيتور"} 
+[2016-11-23 07:37:46] local.INFO: The feed has been parsed {"feed_title":"يومية المسار العربي"} 
+[2016-11-23 07:37:52] local.INFO: The feed has been parsed {"feed_title":"أخبار المحرق"} 
+[2016-11-23 07:37:55] local.INFO: The feed has been parsed {"feed_title":"الأمه نيوز"} 
+[2016-11-23 07:37:57] local.INFO: The feed has been parsed {"feed_title":"البحرين اليوم"} 
+[2016-11-23 07:37:59] local.INFO: The feed has been parsed {"feed_title":"التيار التقدمي الكويتي"} 
+[2016-11-23 07:38:00] local.INFO: The feed has been parsed {"feed_title":"الزاوية الاخبارية"} 
+[2016-11-23 07:38:04] local.INFO: The feed has been parsed {"feed_title":"جريدة 25 فبراير"} 
+[2016-11-23 07:38:06] local.INFO: The feed has been parsed {"feed_title":"جريدة أكاديميا"} 
+[2016-11-23 07:38:08] local.INFO: The feed has been parsed {"feed_title":"جريدة اجيال الالكترونية"} 
+[2016-11-23 07:38:09] local.INFO: The feed has been parsed {"feed_title":"جريدة البلاد"} 
+[2016-11-23 07:38:09] local.INFO: The feed has been parsed {"feed_title":"جريدة الجون"} 
+[2016-11-23 07:38:12] local.INFO: The feed has been parsed {"feed_title":"جريدة الرأي العام"} 
+[2016-11-23 07:38:19] local.INFO: The feed has been parsed {"feed_title":"جريدة الرياضي"} 
+[2016-11-23 07:38:26] local.INFO: The feed has been parsed {"feed_title":"الرياضي"} 
+[2016-11-23 07:38:32] local.INFO: The feed has been parsed {"feed_title":"جريدة الصوت الكويتية"} 
+[2016-11-23 07:38:32] local.INFO: The feed has been parsed {"feed_title":"جريدة حدث الإلكترونية"} 
+[2016-11-23 07:38:32] local.INFO: The feed has been parsed {"feed_title":"حياد الإلكترونية"} 
+[2016-11-23 07:38:34] local.INFO: The feed has been parsed {"feed_title":"خدمة برلماني"} 
+[2016-11-23 07:38:41] local.INFO: The feed has been parsed {"feed_title":"دسمان نيوز"} 
+[2016-11-23 07:38:49] local.INFO: The feed has been parsed {"feed_title":"ديرة نيوز"} 
+[2016-11-23 07:38:51] local.INFO: The feed has been parsed {"feed_title":"سكوب نيوز"} 
+[2016-11-23 07:38:54] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:38:55] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:38:55] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإرادة الإلكترونية"} 
+[2016-11-23 07:38:58] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الحدث","link":"http://alhaadth.com/?feed=rss2"} 
+[2016-11-23 07:38:58] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-23 07:39:04] local.INFO: The feed has been parsed {"feed_title":"شبكة أبناء القائد"} 
+[2016-11-23 07:39:04] local.INFO: The feed has been parsed {"feed_title":"صحيفة الإرادة الإلكترونية"} 
+[2016-11-23 07:39:06] local.INFO: This feed contain empty data in the xml file {"feed_title":"صحيفة الحدث","link":"http://alhaadth.com/?feed=rss2"} 
+[2016-11-23 07:39:06] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحدث"} 
+[2016-11-23 07:39:12] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحصيلة الإلكترونية"} 
+[2016-11-23 07:39:12] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقيقة الإلكترونية"} 
+[2016-11-23 07:39:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحصيلة الإلكترونية"} 
+[2016-11-23 07:39:13] local.INFO: The feed has been parsed {"feed_title":"صحيفة الحقيقة الإلكترونية"} 
+[2016-11-23 07:39:17] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخبر"} 
+[2016-11-23 07:39:21] local.INFO: The feed has been parsed {"feed_title":"صحيفة أبعاد الخبر"} 
+[2016-11-23 07:39:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور الكويتية"} 
+[2016-11-23 07:39:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة الشامية نيوز الإلكترونية"} 
+[2016-11-23 07:39:26] local.INFO: The feed has been parsed {"feed_title":"صحيفة الدستور الكويتية"} 
+[2016-11-23 07:39:26] local.ERROR: exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\Facebook.php:263
+Stack trace:
+#0 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(37): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(22): App\FeedService\FaceBook->GetFaceBookPosts(Object(App\Feed))
+#2 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(82): App\FeedService\FaceBook->Start(Object(App\Feed))
+#3 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(69): App\FeedService\FeedService->GetLastNews()
+#4 [internal function]: App\Http\Controllers\NewsController->test()
+#5 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#6 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('test', Array)
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), 'test')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'test')
+#14 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'test')
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#39 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#41 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#42 {main}  
+[2016-11-23 07:43:10] local.INFO: Limit {"limit":35} 
+[2016-11-23 07:43:12] local.INFO: The feed has been parsed {"feed_title":"صحيفة النخبة الإخبارية الإلكترونيه"} 
+[2016-11-23 07:43:16] local.INFO: The feed has been parsed {"feed_title":"صحيفة بيان الكويتية"} 
+[2016-11-23 07:43:19] local.INFO: The feed has been parsed {"feed_title":"صحيفة حديث المدينة"} 
+[2016-11-23 07:43:20] local.INFO: The feed has been parsed {"feed_title":"صحيفة سبر"} 
+[2016-11-23 07:43:24] local.INFO: The feed has been parsed {"feed_title":"صحيفة كاظمة"} 
+[2016-11-23 07:43:28] local.INFO: The feed has been parsed {"feed_title":"صحيفة مرآة البحرين"} 
+[2016-11-23 07:43:31] local.INFO: The feed has been parsed {"feed_title":"كويت نيوز"} 
+[2016-11-23 07:43:33] local.INFO: The feed has been parsed {"feed_title":"مجلة الأحرار الكويتية"} 
+[2016-11-23 07:43:38] local.INFO: The feed has been parsed {"feed_title":"مجلة المجتمع"} 
+[2016-11-23 07:43:42] local.INFO: The feed has been parsed {"feed_title":"منامة بوست"} 
+[2016-11-23 07:43:43] local.INFO: The feed has been parsed {"feed_title":"موقع Q8News"} 
+[2016-11-23 07:43:43] local.INFO: The feed has been parsed {"feed_title":"موقع الموازي"} 
+[2016-11-23 07:43:43] local.ERROR: exception 'Facebook\Exceptions\FacebookSDKException' with message 'Unable to convert response from Graph to a GraphEdge because the response does not look like a GraphEdge. Try using GraphNodeFactory::makeGraphNode() instead.' in C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\GraphNodes\GraphNodeFactory.php:239
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\GraphNodes\GraphNodeFactory.php(195): Facebook\GraphNodes\GraphNodeFactory->validateResponseCastableAsGraphEdge()
+#1 C:\wamp64\www\news-backend\vendor\facebook\graph-sdk\src\Facebook\FacebookResponse.php(408): Facebook\GraphNodes\GraphNodeFactory->makeGraphEdge(NULL, true)
+#2 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(48): Facebook\FacebookResponse->getGraphEdge()
+#3 C:\wamp64\www\news-backend\app\FeedService\FaceBook.php(22): App\FeedService\FaceBook->GetFaceBookPosts(Object(App\Feed))
+#4 C:\wamp64\www\news-backend\app\FeedService\FeedService.php(82): App\FeedService\FaceBook->Start(Object(App\Feed))
+#5 C:\wamp64\www\news-backend\app\Http\Controllers\NewsController.php(69): App\FeedService\FeedService->GetLastNews()
+#6 [internal function]: App\Http\Controllers\NewsController->test()
+#7 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#8 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('test', Array)
+#9 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), 'test')
+#10 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\NewsController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'test')
+#16 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'test')
+#17 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Route.php(134): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#18 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(701): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#23 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(703): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#24 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(670): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#25 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Routing\Router.php(628): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#26 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(214): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#27 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#28 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#29 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#41 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(115): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#42 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#43 C:\wamp64\www\news-backend\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#44 {main}  

@@ -1,0 +1,65 @@
+[2016-11-07 05:14:51] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ly","country":"ly"} 
+[2016-11-07 05:15:01] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ly","country":"ly"} 
+[2016-11-07 05:15:08] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ly","country":"ly"} 
+[2016-11-07 05:15:15] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ly","country":"ly"} 
+[2016-11-07 05:16:50] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ly","country":"ly"} 
+[2016-11-07 06:56:38] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:56:43] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:56:49] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:57:08] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:57:18] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:57:30] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:58:15] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:58:31] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:58:51] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 06:58:54] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:02:43] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:02:49] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:08:15] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:13:46] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:13:50] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:14:32] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:14:40] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:17:10] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:19:17] local.INFO: Getting user preferences: User preferences Has been found {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:19:23] local.INFO: Getting user preferences: User preferences Has been found {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:19:54] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:19:57] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-07 07:20:00] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-11-07 07:20:30] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/categories","country":"international"} 
+[2016-11-07 07:21:27] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-11-07 07:21:56] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Misc","topic":"Misc"} 
+[2016-11-07 07:22:02] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Technology","topic":"Technology"} 
+[2016-11-07 07:22:10] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Women","topic":"Women"} 
+[2016-11-07 07:22:16] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-11-07 07:22:20] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:22:23] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 07:27:25] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:27:31] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:33:34] local.ERROR: Getting user preferences: No user found related to the given email {"url":"http://khabar.fekracomputers.com/api/prefs/get","email":"mrabw581@gmail.com"} 
+[2016-11-07 07:33:40] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:33:45] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 07:33:47] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/om","country":"om"} 
+[2016-11-07 08:03:37] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 08:04:39] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/شبكه%20رصد","feed_title":"شبكه رصد"} 
+[2016-11-07 08:06:55] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/شبكه%20رصد/more/881714/20","feed_title":"شبكه رصد"} 
+[2016-11-07 09:39:05] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 09:40:37] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 13:40:04] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 13:41:51] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 13:43:47] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-11-07 13:43:52] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 13:45:43] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 17:22:32] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 17:24:28] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"awoodfathy5@gmail.com"} 
+[2016-11-07 19:28:54] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ca","country":"ca"} 
+[2016-11-07 19:29:02] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ca","country":"ca"} 
+[2016-11-07 19:29:08] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ca","country":"ca"} 
+[2016-11-07 19:29:14] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/ca","country":"ca"} 
+[2016-11-07 20:12:58] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"awoodfathy5@gmail.com"} 
+[2016-11-07 21:38:38] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 
+[2016-11-07 21:38:53] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 
+[2016-11-07 21:39:29] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 
+[2016-11-07 21:39:44] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 
+[2016-11-07 21:40:17] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 
+[2016-11-07 21:40:33] local.ERROR: Country not found {"url":"http://khabar.fekracomputers.com/api/menu/ar/us","country":"us"} 

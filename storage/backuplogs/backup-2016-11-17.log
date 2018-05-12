@@ -1,0 +1,8 @@
+[2016-11-17 09:22:50] local.ERROR: Symfony\Component\Debug\Exception\FatalErrorException: Uncaught TypeError: Argument 1 passed to App\Exceptions\Handler::report() must be an instance of Exception, instance of TypeError given, called in C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php on line 73 and defined in C:\wamp64\www\news-backend\app\Exceptions\Handler.php:30
+Stack trace:
+#0 C:\wamp64\www\news-backend\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(73): App\Exceptions\Handler->report(Object(TypeError))
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(TypeError))
+#2 {main}
+  thrown in C:\wamp64\www\news-backend\app\Exceptions\Handler.php:30
+Stack trace:
+#0 {main}  

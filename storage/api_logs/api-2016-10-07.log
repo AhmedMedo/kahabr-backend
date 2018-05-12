@@ -1,0 +1,64 @@
+[2016-10-07 15:40:28] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/دوت مصر","feed_title":"دوت مصر"} 
+[2016-10-07 15:40:39] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/صحيفه%20اليوم%20السابع","feed_title":"صحيفه اليوم السابع"} 
+[2016-10-07 15:40:44] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-07 15:40:48] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:40:52] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:40:58] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:41:18] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:41:25] local.INFO: More Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:43:05] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:43:16] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/الدستور","feed_title":"الدستور"} 
+[2016-10-07 15:43:32] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-07 15:43:44] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-07 15:43:48] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:45:37] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:46:01] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:46:30] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:46:33] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:46:36] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 15:46:38] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 16:04:06] local.INFO: Recent Last News : Recent News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/recent","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 16:24:16] local.INFO: Search: search operation  in user feeds worked successfully  {"url":"http://khabar.fekracomputers.com/api/news/usersearch","keyword":"مككك","count_news":0} 
+[2016-10-07 16:24:16] local.INFO: Search: Full search operation worked successfully  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/fullsearch","keyword":"مككك","count_news":0} 
+[2016-10-07 16:24:38] local.INFO: Search: search operation  in user feeds worked successfully  {"url":"http://khabar.fekracomputers.com/api/news/usersearch","keyword":"مقتل","count_news":614} 
+[2016-10-07 16:24:38] local.INFO: Search: Full search operation worked successfully  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/fullsearch","keyword":"مقتل","count_news":1088} 
+[2016-10-07 17:59:08] local.INFO: Menu Link:  Menu has been Called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg"} 
+[2016-10-07 17:59:12] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/eg/categories","country":"eg"} 
+[2016-10-07 17:59:52] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/categories","country":"international"} 
+[2016-10-07 17:59:56] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Sport","topic":"Sport"} 
+[2016-10-07 18:00:03] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Misc","topic":"Misc"} 
+[2016-10-07 18:00:09] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Women","topic":"Women"} 
+[2016-10-07 18:00:13] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-07 18:00:17] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Technology","topic":"Technology"} 
+[2016-10-07 18:00:24] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Cars","topic":"Cars"} 
+[2016-10-07 18:00:26] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Economics","topic":"Economics"} 
+[2016-10-07 18:00:34] local.INFO: Menu Link :International feeds  of this topic has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/Health","topic":"Health"} 
+[2016-10-07 18:00:42] local.INFO: Menu Link: feeds of the given country has been called {"url":"http://khabar.fekracomputers.com/api/menu/ar/international/categories","country":"international"} 
+[2016-10-07 18:01:06] local.INFO: updating user preferences: user preferences updated {"url":"http://khabar.fekracomputers.com/api/prefs/add","user_email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:07] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:10] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:13] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:16] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:22] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:25] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:27] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:30] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:01:40] local.ERROR: Feed News: The given feed can't be found in the given country  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/أخبار%20ارسنال-كورة","feed_title":"أخبار ارسنال-كورة","country":"eg"} 
+[2016-10-07 18:01:42] local.ERROR: Feed News: The given feed can't be found in the given country  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/أخبار%20ارسنال-كورة","feed_title":"أخبار ارسنال-كورة","country":"eg"} 
+[2016-10-07 18:03:42] local.ERROR: Feed News: The given feed can't be found in the given country  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/أخبار%20ارسنال-كورة","feed_title":"أخبار ارسنال-كورة","country":"eg"} 
+[2016-10-07 18:03:42] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:03:52] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 18:03:52] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"abdallahsobh9@gmail.com"} 
+[2016-10-07 19:00:39] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 19:00:53] local.INFO: More Last News : More News of the user has been loaded  {"url":"http://khabar.fekracomputers.com/api/usernews/more","Email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 19:00:59] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/الدستور","feed_title":"الدستور"} 
+[2016-10-07 19:28:15] local.INFO: Feed News:More news loaded to this feed {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/الدستور/recent/207974/20","feed_title":"الدستور"} 
+[2016-10-07 19:28:23] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/صحيفه%20اليوم%20السابع","feed_title":"صحيفه اليوم السابع"} 
+[2016-10-07 19:28:34] local.INFO: Last News: User news has been returned  {"url":"http://khabar.fekracomputers.com/api/usernews","email":"ahmed.alaa.eldin.hamdy@gmail.com"} 
+[2016-10-07 19:28:57] local.ERROR: Feed News: The given feed can't be found in the given country  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/العربية","feed_title":"العربية","country":"eg"} 
+[2016-10-07 19:29:00] local.ERROR: Feed News: The given feed can't be found in the given country  {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/العربية","feed_title":"العربية","country":"eg"} 
+[2016-10-07 19:29:07] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/كلمتى","feed_title":"كلمتى"} 
+[2016-10-07 19:29:13] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/الجورنال","feed_title":"الجورنال"} 
+[2016-10-07 19:29:19] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/شبكه%20رصد","feed_title":"شبكه رصد"} 
+[2016-10-07 19:29:43] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/وكاله%20انباء%20اونا","feed_title":"وكاله انباء اونا"} 
+[2016-10-07 19:30:01] local.INFO: Feed News: News of the the given feed has been found {"url":"http://khabar.fekracomputers.com/api/news/ar/eg/صحيفة%20اليوم-اقتصاد","feed_title":"صحيفة اليوم-اقتصاد"} 
